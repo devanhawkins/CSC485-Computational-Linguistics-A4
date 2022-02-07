@@ -1,0 +1,115 @@
+Output from part1
+--------------------------------------------------------------------------------
+Found [1, 2] confidence classes for case 1
+--------------------------------------------------------------------------------
+Found 24 instances for confidence level 1
+--------------------------------------------------------------------------------
+Found 1 instances for confidence level 2
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Dump of elements in confidence level 1
+--------------------------------------------------------------------------------
+Count: 1, hypernym: attributes, hyponym:caste
+XYZ: attributes & caste \\
+1: (S  To/IN  some/DTI  (NP extent/NN)  (NP the/AT system/NN)  can/MD  be/BE  considered/VBN  a/AT  Gemeinschaft/FW-NN  in/IN  which/WDT  ``/``  (NP social-role/NN occupancies/NNS)  are/BER  determined/VBN  by/IN  (NP birth/NN)  ,/,  by/IN  (NP attributes/NNS)  such/JJ  as/CS  (NP sex/NN)  or/CC  (NP caste/NN)  ,/,  which/WDT  are/BER  biologically/RB  or/CC  socially/RB  immutable/JJ  ''/''  ./.) 
+
+Count: 1, hypernym: subjects, hyponym:architecture
+XYZ: subjects & architecture \\
+1: (S  (NP Considerable/JJ specialization/NN)  in/IN  teaching/VBG  (NP subjects/NNS)  such/JJ  as/CS  (NP architecture/NN)  ,/,  (NP furniture/NN design/NN)  ,/,  (NP textiles/NNS)  and/CC  (NP color/NN)  is/BEZ  also/RB  desirable/JJ  ./.) 
+
+Count: 1, hypernym: metals, hyponym:iron
+XYZ: metals & iron \\
+1: (S  (NP A/AT number/NN of/IN adjustment/NN features/NNS)  are/BER  included/VBN  in/IN  (NP the/AT Hesiometer/NN-TL)  to/TO  facilitate/VB  (NP measurement/NN)  and/CC  permit/VB  (NP ready/JJ removal/NN of/IN coatings/NNS)  deposited/VBN  on/IN  (NP such/JJ substrates/NNS)  as/CS  (NP iron/NN)  and/CC  other/AP  (NP metals/NNS)  ,/,  (NP glass/NN)  ,/,  (NP wood/NN)  ,/,  and/CC  (NP plastic/NN surfaces/NNS)  ./.) 
+
+Count: 1, hypernym: condition, hyponym:dirt
+XYZ: condition & dirt \\
+1: (S  They/PPSS  apologized/VBD  for/IN  (NP the/AT condition/NN)  ,/,  including/IN  (NP dirt/NN)  and/CC  (NP flies/NNS)  ,/,  and/CC  I/PPSS  was/BEDZ  a/AT  little/AP  at/IN  (NP a/AT loss/NN)  to/TO  know/VB  what/WDT  to/TO  say/VB  ./.) 
+
+Count: 1, hypernym: substances, hyponym:greases
+XYZ: substances & greases \\
+1: (S  Obviously/RB  hydrophobic/JJ  (/(  oleophilic/JJ  )/)  (NP substances/NNS)  such/JJ  as/CS  (NP greases/NNS)  ,/,  (NP oils/NNS)  ,/,  or/CC  (NP particles/NNS)  having/HVG  a/AT  greasy/JJ  or/CC  (NP oily/JJ surface/NN)  are/BER  more/RBR  at/IN  (NP home/NN in/IN the/AT center/NN of/IN a/AT micelle/NN)  than/CS  in/IN  (NP the/AT aqueous/JJ phase/NN)  ./.) 
+
+Count: 1, hypernym: gases, hyponym:oxygen
+XYZ: gases & oxygen \\
+1: (S  For/IN  their/PP$  (NP purposes/NNS)  ,/,  (NP oxygen/NN)  and/CC  other/AP  (NP gases/NNS)  were/BED  not/*  drawn/VBN  from/IN  the/AT  surrounding/VBG  (NP atmosphere/NN through/IN the/AT medium/NN of/IN lungs/NNS)  but/CC  sustained/VBN  artificially/RB  by/IN  (NP solution/NN)  in/IN  their/PP$  (NP shells/NNS)  ./.) 
+
+Count: 1, hypernym: organizations, hyponym:newspapers
+XYZ: organizations & newspapers \\
+1: (S  Other/AP  (NP THC/NN activities/NNS)  followed/VBD  ,/,  conducted/VBN  by/IN  shopping/VBG  (NP centers/NNS)  ,/,  (NP department/NN stores/NNS)  ,/,  (NP recreation/NN equipment/NN dealers/NNS)  ,/,  (NP radio-TV/NN stations/NNS)  ,/,  (NP newspapers/NNS)  ,/,  and/CC  other/AP  (NP organizations/NNS)  interested/VBN  in/IN  (NP the/AT need/NN)  existing/VBG  to/TO  acquaint/VB  (NP youngsters/NNS with/IN the/AT proper/JJ use/NN)  of/IN  sporting/VBG  (NP firearms/NNS)  and/CC  (NP the/AT development/NN of/IN correct/JJ attitudes/NNS)  and/CC  (NP appreciations/NNS)  related/VBN  to/IN  hunting/VBG  and/CC  (NP wise/JJ use/NN)  of/IN  our/PP$  (NP natural/JJ resources/NNS)  ./.) 
+
+Count: 1, hypernym: substances, hyponym:particles
+XYZ: substances & particles \\
+1: (S  Obviously/RB  hydrophobic/JJ  (/(  oleophilic/JJ  )/)  (NP substances/NNS)  such/JJ  as/CS  (NP greases/NNS)  ,/,  (NP oils/NNS)  ,/,  or/CC  (NP particles/NNS)  having/HVG  a/AT  greasy/JJ  or/CC  (NP oily/JJ surface/NN)  are/BER  more/RBR  at/IN  (NP home/NN in/IN the/AT center/NN of/IN a/AT micelle/NN)  than/CS  in/IN  (NP the/AT aqueous/JJ phase/NN)  ./.) 
+
+Count: 1, hypernym: substances, hyponym:oils
+XYZ: substances & oils \\
+1: (S  Obviously/RB  hydrophobic/JJ  (/(  oleophilic/JJ  )/)  (NP substances/NNS)  such/JJ  as/CS  (NP greases/NNS)  ,/,  (NP oils/NNS)  ,/,  or/CC  (NP particles/NNS)  having/HVG  a/AT  greasy/JJ  or/CC  (NP oily/JJ surface/NN)  are/BER  more/RBR  at/IN  (NP home/NN in/IN the/AT center/NN of/IN a/AT micelle/NN)  than/CS  in/IN  (NP the/AT aqueous/JJ phase/NN)  ./.) 
+
+Count: 1, hypernym: jewels, hyponym:emeralds
+XYZ: jewels & emeralds \\
+1: (S  They/PPSS  are/BER  made/VBN  of/IN  (NP gold/NN)  and/CC  covered/VBN  with/IN  (NP emeralds/NNS)  ,/,  (NP pearls/NNS)  and/CC  other/AP  (NP jewels/NNS)  ./.) 
+
+Count: 1, hypernym: object, hyponym:tree
+XYZ: object & tree \\
+1: (S  Just/RB  because/CS  (NP a/AT tree/NN)  or/CC  other/AP  (NP object/NN)  appears/VBZ  in/IN  (NP a/AT certain/JJ spot/NN)  is/BEZ  absolutely/RB  (NP no/AT reason/NN)  to/TO  place/VB  it/PPO  in/IN  the/AT  same/AP  (NP position/NN in/IN the/AT painting/NN)  ,/,  unless/CS  (NP the/AT position/NN)  serves/VBZ  (NP the/AT design/NN of/IN the/AT whole/JJ composition/NN)  ./.) 
+
+Count: 1, hypernym: meats, hyponym:hamburger
+XYZ: meats & hamburger \\
+1: (S  Ground/VBN  (NP meats/NNS)  such/JJ  as/CS  (NP fresh/JJ pork/NN sausage/NN)  and/CC  (NP hamburger/NN)  have/HV  a/AT  relatively/QL  (NP short/JJ shelf/NN life/NN under/IN refrigeration/NN)  ,/,  and/CC  (NP radiopasteurization/NN)  might/MD  be/BE  thought/VBN  to/TO  offer/VB  distinctly/RB  improved/VBN  keeping/VBG  (NP qualities/NNS)  ./.) 
+
+Count: 1, hypernym: buildings, hyponym:dormitories
+XYZ: buildings & dormitories \\
+1: (S  (NP Residential/JJ building/NN)  consists/VBZ  of/IN  (NP houses/NNS)  ,/,  (NP apartments/NNS)  ,/,  (NP hotels/NNS)  ,/,  (NP dormitories/NNS)  and/CC  other/AP  (NP buildings/NNS)  designed/VBN  for/IN  (NP shelter/NN)  ./.) 
+
+Count: 1, hypernym: attributes, hyponym:sex
+XYZ: attributes & sex \\
+1: (S  To/IN  some/DTI  (NP extent/NN)  (NP the/AT system/NN)  can/MD  be/BE  considered/VBN  a/AT  Gemeinschaft/FW-NN  in/IN  which/WDT  ``/``  (NP social-role/NN occupancies/NNS)  are/BER  determined/VBN  by/IN  (NP birth/NN)  ,/,  by/IN  (NP attributes/NNS)  such/JJ  as/CS  (NP sex/NN)  or/CC  (NP caste/NN)  ,/,  which/WDT  are/BER  biologically/RB  or/CC  socially/RB  immutable/JJ  ''/''  ./.) 
+
+Count: 1, hypernym: records, hyponym:documents
+XYZ: records & documents \\
+1: (S  (NP The/AT two/CD Governments/NNS-TL)  shall/MD  have/HV  (NP the/AT right/NN)  at/IN  all/ABN  (NP reasonable/JJ times/NNS)  to/TO  examine/VB  (NP such/JJ books/NNS)  and/CC  (NP records/NNS)  and/CC  all/ABN  other/AP  (NP documents/NNS)  ,/,  (NP correspondence/NN)  ,/,  (NP memoranda/NNS)  and/CC  other/AP  (NP records/NNS)  involving/VBG  (NP transactions/NNS)  relating/VBG  to/IN  agreed/VBN  (NP projects/NNS)  ./.) 
+
+Count: 1, hypernym: language, hyponym:russian
+XYZ: language & russian \\
+1: (S  (NP    A/AT    significant/JJ    reduction/NN    in/IN    the/AT    voume/NN    of/IN    store/NN    information/NN)  is/BEZ  thus/RB  realized/VBN  ,/,  especially/RB  for/IN  a/AT  highly/QL  inflected/VBN  (NP language/NN)  such/JJ  as/CS  (NP Russian/NP)  ./.) 
+
+Count: 1, hypernym: animals, hyponym:mink
+XYZ: animals & mink \\
+1: (S  )/)  They/PPSS  train/VB  (NP the/AT mink/NN)  and/CC  other/AP  (NP animals/NNS)  to/TO  fight/VB  ./.) 
+
+Count: 1, hypernym: jewels, hyponym:pearls
+XYZ: jewels & pearls \\
+1: (S  They/PPSS  are/BER  made/VBN  of/IN  (NP gold/NN)  and/CC  covered/VBN  with/IN  (NP emeralds/NNS)  ,/,  (NP pearls/NNS)  and/CC  other/AP  (NP jewels/NNS)  ./.) 
+
+Count: 1, hypernym: piping, hyponym:sewers
+XYZ: piping & sewers \\
+1: (S  They/PPSS  are/BER  laid/VBN  (NP a/AT minimum/NN of/IN 24''/NNS)  ''/''  deep/RB  and/CC  in/IN  some/DTI  (NP areas/NNS)  (NP four/CD feet/NNS)  down/RP  ,/,  particularly/RB  under/IN  (NP roads/NNS)  ,/,  to/TO  stay/VB  clear/RB  of/IN  all/ABN  other/AP  (NP piping/NN)  such/JJ  as/CS  (NP water/NN)  and/CC  (NP sewers/NNS)  and/CC  to/TO  minimize/VB  (NP shocks/NNS from/IN heavy/JJ trucking/NN)  ./.) 
+
+Count: 1, hypernym: buildings, hyponym:hotels
+XYZ: buildings & hotels \\
+1: (S  (NP Residential/JJ building/NN)  consists/VBZ  of/IN  (NP houses/NNS)  ,/,  (NP apartments/NNS)  ,/,  (NP hotels/NNS)  ,/,  (NP dormitories/NNS)  and/CC  other/AP  (NP buildings/NNS)  designed/VBN  for/IN  (NP shelter/NN)  ./.) 
+
+Count: 1, hypernym: buildings, hyponym:houses
+XYZ: buildings & houses \\
+1: (S  (NP Residential/JJ building/NN)  consists/VBZ  of/IN  (NP houses/NNS)  ,/,  (NP apartments/NNS)  ,/,  (NP hotels/NNS)  ,/,  (NP dormitories/NNS)  and/CC  other/AP  (NP buildings/NNS)  designed/VBN  for/IN  (NP shelter/NN)  ./.) 
+
+Count: 1, hypernym: records, hyponym:memoranda
+XYZ: records & memoranda \\
+1: (S  (NP The/AT two/CD Governments/NNS-TL)  shall/MD  have/HV  (NP the/AT right/NN)  at/IN  all/ABN  (NP reasonable/JJ times/NNS)  to/TO  examine/VB  (NP such/JJ books/NNS)  and/CC  (NP records/NNS)  and/CC  all/ABN  other/AP  (NP documents/NNS)  ,/,  (NP correspondence/NN)  ,/,  (NP memoranda/NNS)  and/CC  other/AP  (NP records/NNS)  involving/VBG  (NP transactions/NNS)  relating/VBG  to/IN  agreed/VBN  (NP projects/NNS)  ./.) 
+
+Count: 1, hypernym: city, hyponym:atlanta
+XYZ: city & atlanta \\
+1: (S  It/PPS  is/BEZ  said/VBN  that/CS  ,/,  even/RB  at/IN  (NP    the/AT    present/JJ    stage/NN    of/IN    Southern/JJ-TL    urbanization/NN)  ,/,  such/ABL  (NP a/AT city/NN)  as/CS  (NP Atlanta/NP)  is/BEZ  not/*  distinctly/QL  unlike/IN  (NP Columbus/NP)  or/CC  (NP Trenton/NP)  ./.) 
+
+Count: 1, hypernym: liquids, hyponym:water
+XYZ: liquids & water \\
+1: (S  This/DT  is/BEZ  possible/JJ  with/IN  (NP water/NN)  and/CC  other/AP  (NP liquids/NNS)  that/WPS  have/HV  (NP a/AT high/JJ surface/NN tension/NN)  ./.) 
+
+--------------------------------------------------------------------------------
+Dump of elements in confidence level 2
+--------------------------------------------------------------------------------
+Count: 2, hypernym: microorganisms, hyponym:bacteria
+XYZ: microorganisms & bacteria \\
+1: (S  Many/AP  (NP cells/NNS)  ,/,  (NP bacteria/NNS)  ,/,  and/CC  other/AP  (NP microorganisms/NNS)  are/BER  transparent/JJ  to/IN  (NP visible/JJ light/NN)  and/CC  must/MD  be/BE  stained/VBN  for/IN  (NP microscopic/JJ investigation/NN)  ./.) 
+2: (S  (NP The/AT chief/JJS factors/NNS)  responsible/JJ  for/IN  (NP the/AT spoilage/NN of/IN fresh/JJ foodstuffs/NNS)  are/BER  (/(  1/CD  )/)  (NP microorganisms/NNS)  such/JJ  as/CS  (NP bacteria/NNS)  ,/,  (NP molds/NNS)  ,/,  and/CC  (NP yeasts/NNS)  ,/,  (/(  2/CD  )/)  (NP enzymes/NNS)  ,/,  (/(  3/CD  )/)  (NP insects/NNS)  ,/,  (/(  4/CD  )/)  sprouting/VBG  ,/,  and/CC  (/(  5/CD  )/)  (NP chemical/NN reactions/NNS)  ./.) 
+

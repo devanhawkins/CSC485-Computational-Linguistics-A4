@@ -1,0 +1,33 @@
+Output from part1
+--------------------------------------------------------------------------------
+Found [1] confidence classes for case 2
+--------------------------------------------------------------------------------
+Found 6 instances for confidence level 1
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Dump of elements in confidence level 1
+--------------------------------------------------------------------------------
+Count: 1, hypernym: developments, hyponym:processes
+XYZ: developments & processes \\
+1: (S  All/ABN  (NP research/NN)  within/IN  the/AT  United/VBN-TL  (NP States/NNS-TL)  contracted/VBN  for/IN  ,/,  sponsored/VBN  ,/,  cosponsored/VBN  ,/,  or/CC  authorized/VBN  under/IN  (NP authority/NN of/IN this/DT Act/NN-TL)  ,/,  shall/MD  be/BE  provided/VBN  for/IN  in/IN  (NP such/JJ manner/NN)  that/CS  all/ABN  (NP information/NN)  ,/,  (NP uses/NNS)  ,/,  (NP products/NNS)  ,/,  (NP processes/NNS)  ,/,  (NP patents/NNS)  ,/,  and/CC  other/AP  (NP developments/NNS)  resulting/VBG  from/IN  (NP such/JJ research/NN)  developed/VBN  by/IN  (NP Government/NN-TL expenditure/NN)  will/MD  (/(  with/IN  (NP such/JJ exceptions/NNS)  and/CC  (NP limitations/NNS)  ,/,  if/CS  any/DTI  ,/,  as/CS  (NP the/AT Secretary/NN-TL)  may/MD  find/VB  to/TO  be/BE  necessary/JJ  in/IN  (NP the/AT interest/NN of/IN national/JJ defense/NN)  )/)  be/BE  available/JJ  to/IN  (NP the/AT general/JJ public/NN)  ./.) 
+
+Count: 1, hypernym: products, hyponym:chemicals
+XYZ: products & chemicals \\
+1: (S  More/AP  than/IN  (NP 20/CD million/CD people/NNS)  live/VB  on/IN  (NP farms/NNS)  and/CC  they/PPSS  own/VB  a/AT  fourth/OD  of/IN  (NP the/AT nation's/NN$ trucks/NNS)  ,/,  buy/VB  more/AP  (NP gasoline/NN)  than/CS  any/DTI  other/AP  (NP industry/NN)  and/CC  provide/VB  (NP a/AT major/JJ market/NN for/IN home/NR appliances/NNS)  ,/,  (NP chemicals/NNS)  and/CC  other/AP  (NP products/NNS)  ./.) 
+
+Count: 1, hypernym: developments, hyponym:uses
+XYZ: developments & uses \\
+1: (S  All/ABN  (NP research/NN)  within/IN  the/AT  United/VBN-TL  (NP States/NNS-TL)  contracted/VBN  for/IN  ,/,  sponsored/VBN  ,/,  cosponsored/VBN  ,/,  or/CC  authorized/VBN  under/IN  (NP authority/NN of/IN this/DT Act/NN-TL)  ,/,  shall/MD  be/BE  provided/VBN  for/IN  in/IN  (NP such/JJ manner/NN)  that/CS  all/ABN  (NP information/NN)  ,/,  (NP uses/NNS)  ,/,  (NP products/NNS)  ,/,  (NP processes/NNS)  ,/,  (NP patents/NNS)  ,/,  and/CC  other/AP  (NP developments/NNS)  resulting/VBG  from/IN  (NP such/JJ research/NN)  developed/VBN  by/IN  (NP Government/NN-TL expenditure/NN)  will/MD  (/(  with/IN  (NP such/JJ exceptions/NNS)  and/CC  (NP limitations/NNS)  ,/,  if/CS  any/DTI  ,/,  as/CS  (NP the/AT Secretary/NN-TL)  may/MD  find/VB  to/TO  be/BE  necessary/JJ  in/IN  (NP the/AT interest/NN of/IN national/JJ defense/NN)  )/)  be/BE  available/JJ  to/IN  (NP the/AT general/JJ public/NN)  ./.) 
+
+Count: 1, hypernym: submarines, hyponym:ships
+XYZ: submarines & ships \\
+1: (S  It/PPS  was/BEDZ  of/IN  (NP the/AT hunter-killer/NN type/NN)  ,/,  designed/VBN  to/TO  seek/VB  out/RP  (NP ships/NNS)  and/CC  other/AP  (NP submarines/NNS)  with/IN  its/PP$  most/QL  advanced/VBN  (NP gear/NN)  and/CC  destroy/VB  them/PPO  with/IN  (NP torpedoes/NNS)  ./.) 
+
+Count: 1, hypernym: records, hyponym:documents
+XYZ: records & documents \\
+1: (S  (NP The/AT two/CD Governments/NNS-TL)  shall/MD  have/HV  (NP the/AT right/NN)  at/IN  all/ABN  (NP reasonable/JJ times/NNS)  to/TO  examine/VB  (NP such/JJ books/NNS)  and/CC  (NP records/NNS)  and/CC  all/ABN  other/AP  (NP documents/NNS)  ,/,  (NP correspondence/NN)  ,/,  (NP memoranda/NNS)  and/CC  other/AP  (NP records/NNS)  involving/VBG  (NP transactions/NNS)  relating/VBG  to/IN  agreed/VBN  (NP projects/NNS)  ./.) 
+
+Count: 1, hypernym: fertilizers, hyponym:materials
+XYZ: fertilizers & materials \\
+1: (S  All/ABN  these/DTS  (NP materials/NNS)  and/CC  (NP supplementary/JJ manure/NN)  and/CC  other/AP  (NP fertilizers/NNS)  from/IN  neighboring/VBG  (NP dairy/NN)  and/CC  (NP poultry/NN farms/NNS)  made/VBD  over/RP  (NP 40/CD tons/NNS)  of/IN  finished/VBN  (NP compost/NN)  (NP a/AT year/NN)  ./.) 
+

@@ -1,0 +1,353 @@
+Output from part1
+--------------------------------------------------------------------------------
+Found [1] confidence classes for case 3
+--------------------------------------------------------------------------------
+Found 86 instances for confidence level 1
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Dump of elements in confidence level 1
+--------------------------------------------------------------------------------
+Count: 1, hypernym: diseases, hyponym:encephalitis
+XYZ: diseases & encephalitis \\
+1: (S  In/IN  (NP rare/JJ cases/NNS)  ,/,  (NP diseases/NNS)  such/JJ  as/CS  (NP encephalitis/NN)  or/CC  (NP a/AT pituitary/NN tumor/NN)  may/MD  damage/VB  (NP the/AT appestat/NN)  permanently/RB  ,/,  destroying/VBG  nearly/RB  all/ABN  (NP sense/NN of/IN satiety/NN)  ./.) 
+
+Count: 1, hypernym: industry, hyponym:irrigation
+XYZ: industry & irrigation \\
+1: (S  (NP Industry/NN)  ,/,  including/IN  (NP the/AT production/NN of/IN fertilizer/NN)  ,/,  (NP irrigation/NN)  and/CC  (NP power/NN)  ,/,  (NP transport/NN)  and/CC  (NP communications/NNS)  ,/,  and/CC  (NP credit/NN institutions/NNS)  ;/.  ;/.) 
+
+Count: 1, hypernym: spots, hyponym:knees
+XYZ: spots & knees \\
+1: (S  In/IN  (NP spots/NNS)  such/JJ  as/CS  (NP the/AT elbows/NNS)  and/CC  (NP knees/NNS)  the/AT  second/OD  (NP skin/NN)  is/BEZ  worn/VBN  off/RP  and/CC  I/PPSS  realized/VBD  (NP the/AT aborigines/NNS)  were/BED  much/QL  darker/JJR  than/CS  they/PPSS  appeared/VBD  ;/.  ;/.) 
+
+Count: 1, hypernym: ologies, hyponym:parisology
+XYZ: ologies & parisology \\
+1: (S  There/EX  are/BER  many/AP  (NP types/NNS of/IN ambiguity/NN)  and/CC  many/AP  of/IN  them/PPO  have/HV  been/BEN  described/VBN  by/IN  (NP rhetoricians/NNS under/IN such/JJ names/NNS)  as/CS  (NP amphibology/NN)  ,/,  (NP parisology/NN)  ,/,  and/CC  other/AP  (NP ologies/NNS)  ./.) 
+
+Count: 1, hypernym: developments, hyponym:processes
+XYZ: developments & processes \\
+1: (S  All/ABN  (NP research/NN)  within/IN  the/AT  United/VBN-TL  (NP States/NNS-TL)  contracted/VBN  for/IN  ,/,  sponsored/VBN  ,/,  cosponsored/VBN  ,/,  or/CC  authorized/VBN  under/IN  (NP authority/NN of/IN this/DT Act/NN-TL)  ,/,  shall/MD  be/BE  provided/VBN  for/IN  in/IN  (NP such/JJ manner/NN)  that/CS  all/ABN  (NP information/NN)  ,/,  (NP uses/NNS)  ,/,  (NP products/NNS)  ,/,  (NP processes/NNS)  ,/,  (NP patents/NNS)  ,/,  and/CC  other/AP  (NP developments/NNS)  resulting/VBG  from/IN  (NP such/JJ research/NN)  developed/VBN  by/IN  (NP Government/NN-TL expenditure/NN)  will/MD  (/(  with/IN  (NP such/JJ exceptions/NNS)  and/CC  (NP limitations/NNS)  ,/,  if/CS  any/DTI  ,/,  as/CS  (NP the/AT Secretary/NN-TL)  may/MD  find/VB  to/TO  be/BE  necessary/JJ  in/IN  (NP the/AT interest/NN of/IN national/JJ defense/NN)  )/)  be/BE  available/JJ  to/IN  (NP the/AT general/JJ public/NN)  ./.) 
+
+Count: 1, hypernym: nations, hyponym:peoples
+XYZ: nations & peoples \\
+1: (S  At/IN  (NP one/CD time/NN)  it/PPS  seemed/VBD  as/CS  if/CS  (NP the/AT Soviet/NP-TL Union/NN-TL)  had/HVD  done/VBN  us/PPO  (NP a/AT favor/NN)  by/IN  providing/VBG  (NP a/AT striking/JJ example/NN)  of/IN  how/WRB  not/*  to/TO  behave/VB  towards/IN  other/AP  (NP peoples/NNS)  and/CC  other/AP  (NP nations/NNS)  ./.) 
+
+Count: 1, hypernym: members, hyponym:hands
+XYZ: members & hands \\
+1: (S  (NP This/DT arrangement/NN)  was/BEDZ  for/IN  (NP Copernicus/NP)  literally/QL  monstrous/JJ  :/:  ``/``  With/IN  (/(  (NP the/AT Ptolemaists/NPS)  )/)  it/PPS  is/BEZ  as/QL  though/CS  (NP an/AT artist/NN)  were/BED  to/TO  gather/VB  (NP the/AT hands/NNS)  ,/,  (NP feet/NNS)  ,/,  (NP head/NN)  and/CC  other/AP  (NP members/NNS)  for/IN  his/PP$  (NP images/NNS from/IN divers/JJ models/NNS)  ,/,  (NP each/DT part/NN)  excellently/QL  drawn/VBN  ,/,  but/CC  not/*  related/VBN  to/IN  a/AT  single/AP  (NP body/NN)  ;/.  ;/.) 
+
+Count: 1, hypernym: concepts, hyponym:blasphemy
+XYZ: concepts & blasphemy \\
+1: (S  (NP Concepts/NNS)  such/JJ  as/CS  (NP grace/NN)  ,/,  (NP damnation/NN)  ,/,  (NP purgation/NN)  ,/,  (NP blasphemy/NN)  ,/,  or/CC  (NP the/AT chain/NN)  of/IN  being/BEG  ,/,  which/WDT  are/BER  everywhere/RB  implicit/JJ  in/IN  (NP classic/NN)  and/CC  (NP Shakespearean/JJ tragedy/NN)  ,/,  lose/VB  their/PP$  (NP vitality/NN)  ./.) 
+
+Count: 1, hypernym: compensation, hyponym:salary
+XYZ: compensation & salary \\
+1: (S  (NP Outside/JJ salesmen/NNS)  deduct/VB  all/ABN  (NP expenses/NNS)  attributable/JJ  to/IN  earning/VBG  (NP a/AT salary/NN)  ,/,  (NP commission/NN)  ,/,  or/CC  other/AP  (NP compensation/NN)  ./.) 
+
+Count: 1, hypernym: equipment, hyponym:dies
+XYZ: equipment & dies \\
+1: (S  If/CS  (NP A-Z/NP-TL)  could/MD  buy/VB  (NP Ticonderoga/NP)  cheaply/RB  and/CC  use/VB  their/PP$  (NP presses/NNS)  and/CC  (NP dies/NNS)  and/CC  other/AP  (NP equipment/NN)  ,/,  if/CS  (NP William/NP)  could/MD  hit/VB  precisely/RB  (NP the/AT right/JJ promotion/NN note/NN)  ,/,  if/CS  (NP the/AT money/NN hurdle/NN)  was/BEDZ  not/*  insurmountable/JJ  ./.) 
+
+Count: 1, hypernym: products, hyponym:chemicals
+XYZ: products & chemicals \\
+1: (S  More/AP  than/IN  (NP 20/CD million/CD people/NNS)  live/VB  on/IN  (NP farms/NNS)  and/CC  they/PPSS  own/VB  a/AT  fourth/OD  of/IN  (NP the/AT nation's/NN$ trucks/NNS)  ,/,  buy/VB  more/AP  (NP gasoline/NN)  than/CS  any/DTI  other/AP  (NP industry/NN)  and/CC  provide/VB  (NP a/AT major/JJ market/NN for/IN home/NR appliances/NNS)  ,/,  (NP chemicals/NNS)  and/CC  other/AP  (NP products/NNS)  ./.) 
+
+Count: 1, hypernym: developments, hyponym:uses
+XYZ: developments & uses \\
+1: (S  All/ABN  (NP research/NN)  within/IN  the/AT  United/VBN-TL  (NP States/NNS-TL)  contracted/VBN  for/IN  ,/,  sponsored/VBN  ,/,  cosponsored/VBN  ,/,  or/CC  authorized/VBN  under/IN  (NP authority/NN of/IN this/DT Act/NN-TL)  ,/,  shall/MD  be/BE  provided/VBN  for/IN  in/IN  (NP such/JJ manner/NN)  that/CS  all/ABN  (NP information/NN)  ,/,  (NP uses/NNS)  ,/,  (NP products/NNS)  ,/,  (NP processes/NNS)  ,/,  (NP patents/NNS)  ,/,  and/CC  other/AP  (NP developments/NNS)  resulting/VBG  from/IN  (NP such/JJ research/NN)  developed/VBN  by/IN  (NP Government/NN-TL expenditure/NN)  will/MD  (/(  with/IN  (NP such/JJ exceptions/NNS)  and/CC  (NP limitations/NNS)  ,/,  if/CS  any/DTI  ,/,  as/CS  (NP the/AT Secretary/NN-TL)  may/MD  find/VB  to/TO  be/BE  necessary/JJ  in/IN  (NP the/AT interest/NN of/IN national/JJ defense/NN)  )/)  be/BE  available/JJ  to/IN  (NP the/AT general/JJ public/NN)  ./.) 
+
+Count: 1, hypernym: instructions, hyponym:time
+XYZ: instructions & time \\
+1: (S  (NP A/AT record/NN)  should/MD  be/BE  kept/VBN  of/IN  (NP the/AT information/NN)  and/CC  (NP instructions/NNS)  ,/,  including/IN  (NP the/AT time/NN)  and/CC  (NP date/NN of/IN broadcast/NN)  ./.) 
+
+Count: 1, hypernym: concept, hyponym:suggestibility
+XYZ: concept & suggestibility \\
+1: (S  (NP    The/AT    positive/JJ    Kohnstamm/NP    reactivity/NN    in/IN    Condition/NN-TL)  1/CD-TL  (/(  (/(  (NP the/AT naive/JJ state/NN)  )/)  is/BEZ  not/*  adequately/RB  explained/VBN  by/IN  such/ABL  (NP a/AT concept/NN)  as/CS  (NP suggestibility/NN)  (/(  if/CS  (NP suggestibility/NN)  is/BEZ  defined/VBN  as/CS  (NP the/AT influence/NN on/IN behavior/NN by/IN verbal/JJ cues/NNS)  )/)  ./.) 
+
+Count: 1, hypernym: concepts, hyponym:damnation
+XYZ: concepts & damnation \\
+1: (S  (NP Concepts/NNS)  such/JJ  as/CS  (NP grace/NN)  ,/,  (NP damnation/NN)  ,/,  (NP purgation/NN)  ,/,  (NP blasphemy/NN)  ,/,  or/CC  (NP the/AT chain/NN)  of/IN  being/BEG  ,/,  which/WDT  are/BER  everywhere/RB  implicit/JJ  in/IN  (NP classic/NN)  and/CC  (NP Shakespearean/JJ tragedy/NN)  ,/,  lose/VB  their/PP$  (NP vitality/NN)  ./.) 
+
+Count: 1, hypernym: ologies, hyponym:amphibology
+XYZ: ologies & amphibology \\
+1: (S  There/EX  are/BER  many/AP  (NP types/NNS of/IN ambiguity/NN)  and/CC  many/AP  of/IN  them/PPO  have/HV  been/BEN  described/VBN  by/IN  (NP rhetoricians/NNS under/IN such/JJ names/NNS)  as/CS  (NP amphibology/NN)  ,/,  (NP parisology/NN)  ,/,  and/CC  other/AP  (NP ologies/NNS)  ./.) 
+
+Count: 1, hypernym: subjects, hyponym:textiles
+XYZ: subjects & textiles \\
+1: (S  (NP Considerable/JJ specialization/NN)  in/IN  teaching/VBG  (NP subjects/NNS)  such/JJ  as/CS  (NP architecture/NN)  ,/,  (NP furniture/NN design/NN)  ,/,  (NP textiles/NNS)  and/CC  (NP color/NN)  is/BEZ  also/RB  desirable/JJ  ./.) 
+
+Count: 1, hypernym: managers, hyponym:capitalists
+XYZ: managers & capitalists \\
+1: (S  (NP Boston/NP)  has/HVZ  been/BEN  controlled/VBN  by/IN  a/AT  few/AP  (NP capitalists/NNS)  ,/,  (NP lawyers/NNS)  and/CC  other/AP  (NP managers/NNS)  ,/,  who/WPS  told/VBD  (NP the/AT editors/NNS)  what/WDT  to/TO  say/VB  and/CC  (NP the/AT preachers/NNS)  what/WDT  to/TO  think/VB  ''/''  ./.) 
+
+Count: 1, hypernym: provisions, hyponym:terms
+XYZ: provisions & terms \\
+1: (S  (NP The/AT terms/NNS)  and/CC  (NP conditions/NNS of/IN the/AT loan/NN)  and/CC  other/AP  (NP provisions/NNS)  will/MD  be/BE  set/VBN  forth/RB  in/IN  (NP    a/AT    separate/JJ    agreement/NN    by/IN    the/AT    two/CD    Governments/NNS-TL)  ./.) 
+
+Count: 1, hypernym: foliage, hyponym:fern
+XYZ: foliage & fern \\
+1: (S  (NP Wisconsin/NP-TL Dells/NNS-TL)  ,/,  where/WRB  fantastically/QL  (NP scenic/JJ rocks/NNS)  carved/VBN  by/IN  (NP the/AT Wisconsin/NP-TL River/NN-TL)  are/BER  overgrown/VBN  with/IN  (NP fern/NN)  and/CC  other/AP  (NP foliage/NN)  ,/,  rates/VBZ  (NP a/AT stopover/NN)  when/WRB  traveling/VBG  from/IN  (NP Chicago/NP)  ./.) 
+
+Count: 1, hypernym: businesses, hyponym:janitors
+XYZ: businesses & janitors \\
+1: (S  (NP The/AT company/NN)  supplies/VBZ  (NP janitors/NNS)  and/CC  (NP workmen/NNS for/IN McCormick/NP Place/NN-TL)  and/CC  (NP factories/NNS)  ,/,  (NP liquor/NN firms/NNS)  ,/,  and/CC  other/AP  (NP businesses/NNS)  ./.) 
+
+Count: 1, hypernym: submarines, hyponym:ships
+XYZ: submarines & ships \\
+1: (S  It/PPS  was/BEDZ  of/IN  (NP the/AT hunter-killer/NN type/NN)  ,/,  designed/VBN  to/TO  seek/VB  out/RP  (NP ships/NNS)  and/CC  other/AP  (NP submarines/NNS)  with/IN  its/PP$  most/QL  advanced/VBN  (NP gear/NN)  and/CC  destroy/VB  them/PPO  with/IN  (NP torpedoes/NNS)  ./.) 
+
+Count: 1, hypernym: species, hyponym:dog
+XYZ: species & dog \\
+1: (S  It/PPS  is/BEZ  ,/,  however/RB  ,/,  highly/QL  suggestive/JJ  and/CC  agrees/VBZ  well/RB  with/IN  our/PP$  (NP own/JJ findings/NNS)  in/IN  which/WDT  we/PPSS  also/RB  failed/VBD  to/TO  demonstrate/VB  normally/RB  occurring/VBG  (NP bronchial/JJ artery-pulmonary/JJ artery/NN shunts/NNS)  in/IN  certain/AP  (NP species/NNS)  ,/,  especially/RB  (NP the/AT dog/NN)  ./.) 
+
+Count: 1, hypernym: things, hyponym:grillwork
+XYZ: things & grillwork \\
+1: (S  There/EX  will/MD  be/BE  (NP masses/NNS of/IN flowers/NNS)  ,/,  (NP    reproductions/NNS    of/IN    the/AT    handsome/JJ    old/JJ    buildings/NNS)  with/IN  their/PP$  (NP grillwork/NN)  and/CC  other/AP  (NP things/NNS)  that/WPS  are/BER  typical/JJ  of/IN  (NP New/JJ-TL Orleans/NP-TL)  ./.) 
+
+Count: 1, hypernym: condition, hyponym:flies
+XYZ: condition & flies \\
+1: (S  They/PPSS  apologized/VBD  for/IN  (NP the/AT condition/NN)  ,/,  including/IN  (NP dirt/NN)  and/CC  (NP flies/NNS)  ,/,  and/CC  I/PPSS  was/BEDZ  a/AT  little/AP  at/IN  (NP a/AT loss/NN)  to/TO  know/VB  what/WDT  to/TO  say/VB  ./.) 
+
+Count: 1, hypernym: gases, hyponym:purposes
+XYZ: gases & purposes \\
+1: (S  For/IN  their/PP$  (NP purposes/NNS)  ,/,  (NP oxygen/NN)  and/CC  other/AP  (NP gases/NNS)  were/BED  not/*  drawn/VBN  from/IN  the/AT  surrounding/VBG  (NP atmosphere/NN through/IN the/AT medium/NN of/IN lungs/NNS)  but/CC  sustained/VBN  artificially/RB  by/IN  (NP solution/NN)  in/IN  their/PP$  (NP shells/NNS)  ./.) 
+
+Count: 1, hypernym: members, hyponym:feet
+XYZ: members & feet \\
+1: (S  (NP This/DT arrangement/NN)  was/BEDZ  for/IN  (NP Copernicus/NP)  literally/QL  monstrous/JJ  :/:  ``/``  With/IN  (/(  (NP the/AT Ptolemaists/NPS)  )/)  it/PPS  is/BEZ  as/QL  though/CS  (NP an/AT artist/NN)  were/BED  to/TO  gather/VB  (NP the/AT hands/NNS)  ,/,  (NP feet/NNS)  ,/,  (NP head/NN)  and/CC  other/AP  (NP members/NNS)  for/IN  his/PP$  (NP images/NNS from/IN divers/JJ models/NNS)  ,/,  (NP each/DT part/NN)  excellently/QL  drawn/VBN  ,/,  but/CC  not/*  related/VBN  to/IN  a/AT  single/AP  (NP body/NN)  ;/.  ;/.) 
+
+Count: 1, hypernym: areas, hyponym:education
+XYZ: areas & education \\
+1: (S  Moreover/RB  ,/,  it/PPS  is/BEZ  likely/JJ  that/CS  (NP Federal/JJ-TL policies/NNS)  aimed/VBN  at/IN  stimulating/VBG  (NP    a/AT    faster/JJR    rate/NN    of/IN    economic/JJ    growth/NN    of/IN    the/AT    country/NN)  ,/,  to/TO  keep/VB  ahead/RB  of/IN  (NP the/AT Communist/JJ countries/NNS)  and/CC  to/TO  demonstrate/VB  that/CS  our/PP$  (NP free/JJ economic/JJ system/NN)  is/BEZ  better/JJR  than/CS  theirs/PP$$  ,/,  will/MD  lead/VB  to/IN  rising/VBG  (NP Federal/JJ-TL spending/NN)  in/IN  certain/AP  (NP areas/NNS)  such/JJ  as/CS  (NP education/NN)  ,/,  housing/VBG  ,/,  (NP medical/JJ aid/NN)  ,/,  and/CC  the/AT  like/JJ  ./.) 
+
+Count: 1, hypernym: industry, hyponym:transport
+XYZ: industry & transport \\
+1: (S  (NP Industry/NN)  ,/,  including/IN  (NP the/AT production/NN of/IN fertilizer/NN)  ,/,  (NP irrigation/NN)  and/CC  (NP power/NN)  ,/,  (NP transport/NN)  and/CC  (NP communications/NNS)  ,/,  and/CC  (NP credit/NN institutions/NNS)  ;/.  ;/.) 
+
+Count: 1, hypernym: fillies, hyponym:pacers
+XYZ: fillies & pacers \\
+1: (S  (NP The/AT colts/NNS in/IN Simpson's/NP$ stable/NN)  have/HV  little/AP  if/CS  anything/PN  on/IN  (NP the/AT fillies/NNS)  ,/,  especially/RB  (NP the/AT pacers/NNS)  ./.) 
+
+Count: 1, hypernym: concepts, hyponym:chain
+XYZ: concepts & chain \\
+1: (S  (NP Concepts/NNS)  such/JJ  as/CS  (NP grace/NN)  ,/,  (NP damnation/NN)  ,/,  (NP purgation/NN)  ,/,  (NP blasphemy/NN)  ,/,  or/CC  (NP the/AT chain/NN)  of/IN  being/BEG  ,/,  which/WDT  are/BER  everywhere/RB  implicit/JJ  in/IN  (NP classic/NN)  and/CC  (NP Shakespearean/JJ tragedy/NN)  ,/,  lose/VB  their/PP$  (NP vitality/NN)  ./.) 
+
+Count: 1, hypernym: piping, hyponym:water
+XYZ: piping & water \\
+1: (S  They/PPSS  are/BER  laid/VBN  (NP a/AT minimum/NN of/IN 24''/NNS)  ''/''  deep/RB  and/CC  in/IN  some/DTI  (NP areas/NNS)  (NP four/CD feet/NNS)  down/RP  ,/,  particularly/RB  under/IN  (NP roads/NNS)  ,/,  to/TO  stay/VB  clear/RB  of/IN  all/ABN  other/AP  (NP piping/NN)  such/JJ  as/CS  (NP water/NN)  and/CC  (NP sewers/NNS)  and/CC  to/TO  minimize/VB  (NP shocks/NNS from/IN heavy/JJ trucking/NN)  ./.) 
+
+Count: 1, hypernym: developments, hyponym:products
+XYZ: developments & products \\
+1: (S  All/ABN  (NP research/NN)  within/IN  the/AT  United/VBN-TL  (NP States/NNS-TL)  contracted/VBN  for/IN  ,/,  sponsored/VBN  ,/,  cosponsored/VBN  ,/,  or/CC  authorized/VBN  under/IN  (NP authority/NN of/IN this/DT Act/NN-TL)  ,/,  shall/MD  be/BE  provided/VBN  for/IN  in/IN  (NP such/JJ manner/NN)  that/CS  all/ABN  (NP information/NN)  ,/,  (NP uses/NNS)  ,/,  (NP products/NNS)  ,/,  (NP processes/NNS)  ,/,  (NP patents/NNS)  ,/,  and/CC  other/AP  (NP developments/NNS)  resulting/VBG  from/IN  (NP such/JJ research/NN)  developed/VBN  by/IN  (NP Government/NN-TL expenditure/NN)  will/MD  (/(  with/IN  (NP such/JJ exceptions/NNS)  and/CC  (NP limitations/NNS)  ,/,  if/CS  any/DTI  ,/,  as/CS  (NP the/AT Secretary/NN-TL)  may/MD  find/VB  to/TO  be/BE  necessary/JJ  in/IN  (NP the/AT interest/NN of/IN national/JJ defense/NN)  )/)  be/BE  available/JJ  to/IN  (NP the/AT general/JJ public/NN)  ./.) 
+
+Count: 1, hypernym: industry, hyponym:power
+XYZ: industry & power \\
+1: (S  (NP Industry/NN)  ,/,  including/IN  (NP the/AT production/NN of/IN fertilizer/NN)  ,/,  (NP irrigation/NN)  and/CC  (NP power/NN)  ,/,  (NP transport/NN)  and/CC  (NP communications/NNS)  ,/,  and/CC  (NP credit/NN institutions/NNS)  ;/.  ;/.) 
+
+Count: 1, hypernym: girls, hyponym:sand
+XYZ: girls & sand \\
+1: (S  (NP Thirty/CD minutes/NNS)  later/RBR  ,/,  (NP the/AT outrigger/NN)  grated/VBD  on/IN  (NP sand/NN)  and/CC  other/AP  (NP girls/NNS)  ,/,  waiting/VBG  on/IN  (NP shore/NN)  ,/,  rushed/VBD  forward/RB  to/TO  pull/VB  it/PPO  up/RP  on/IN  (NP the/AT beach/NN)  and/CC  make/VB  it/PPO  fast/RB  with/IN  (NP vine/NN ropes/NNS to/IN a/AT large/JJ boulder/NN)  ./.) 
+
+Count: 1, hypernym: reason, hyponym:economy
+XYZ: reason & economy \\
+1: (S  If/CS  ,/,  for/IN  some/DTI  (NP reason/NN)  such/JJ  as/CS  (NP economy/NN)  ,/,  we/PPSS  are/BER  not/*  going/VBG  to/TO  develop/VB  (NP aircraft/NN)  (NP    nuclear/JJ    propulsion/NN    with/IN    a/AT    sense/NN    of/IN    national/JJ    urgency/NN)  ,/,  then/RB  we/PPSS  should/MD  turn/VB  our/PP$  (NP effort/NN)  to/IN  developing/VBG  (NP jet/NN engines/NNS with/IN a/AT thrust-to-weight/JJ ratio/NN)  of/IN  12/CD  or/CC  15/CD  to/IN  one/CD  ./.) 
+
+Count: 1, hypernym: nation, hyponym:switzerland
+XYZ: nation & switzerland \\
+1: (S  (NP A/AT nation/NN)  such/JJ  as/CS  (NP Switzerland/NP)  could/MD  be/BE  neutralized/VBN  by/IN  (NP agreement/NN)  and/CC  could/MD  be/BE  relied/VBN  upon/RB  to/TO  protect/VB  its/PP$  (NP neutrality/NN)  ;/.  ;/.) 
+
+Count: 1, hypernym: subjects, hyponym:color
+XYZ: subjects & color \\
+1: (S  (NP Considerable/JJ specialization/NN)  in/IN  teaching/VBG  (NP subjects/NNS)  such/JJ  as/CS  (NP architecture/NN)  ,/,  (NP furniture/NN design/NN)  ,/,  (NP textiles/NNS)  and/CC  (NP color/NN)  is/BEZ  also/RB  desirable/JJ  ./.) 
+
+Count: 1, hypernym: passage, hyponym:following
+XYZ: passage & following \\
+1: (S  In/IN  (NP view/NN)  of/IN  these/DTS  (NP shortcomings/NNS)  in/IN  both/ABX  (NP the/AT amount/NN)  and/CC  (NP    the/AT    interpretation/NN    of/IN    survey-type/JJ    findings/NNS    on/IN    public/JJ    opinion/NN)  ,/,  and/CC  considering/IN  (NP the/AT criticisms/NNS)  which/WDT  can/MD  be/BE  brought/VBN  against/IN  (NP Fromm's/NP$)  (NP philosophical/JJ anthropology/NN)  ,/,  such/ABL  (NP a/AT passage/NN)  as/CS  (NP the/AT following/NN)  cannot/MD*  be/BE  taken/VBN  seriously/RB  ./.) 
+
+Count: 1, hypernym: businesses, hyponym:factories
+XYZ: businesses & factories \\
+1: (S  (NP The/AT company/NN)  supplies/VBZ  (NP janitors/NNS)  and/CC  (NP workmen/NNS for/IN McCormick/NP Place/NN-TL)  and/CC  (NP factories/NNS)  ,/,  (NP liquor/NN firms/NNS)  ,/,  and/CC  other/AP  (NP businesses/NNS)  ./.) 
+
+Count: 1, hypernym: microorganisms, hyponym:molds
+XYZ: microorganisms & molds \\
+1: (S  (NP The/AT chief/JJS factors/NNS)  responsible/JJ  for/IN  (NP the/AT spoilage/NN of/IN fresh/JJ foodstuffs/NNS)  are/BER  (/(  1/CD  )/)  (NP microorganisms/NNS)  such/JJ  as/CS  (NP bacteria/NNS)  ,/,  (NP molds/NNS)  ,/,  and/CC  (NP yeasts/NNS)  ,/,  (/(  2/CD  )/)  (NP enzymes/NNS)  ,/,  (/(  3/CD  )/)  (NP insects/NNS)  ,/,  (/(  4/CD  )/)  sprouting/VBG  ,/,  and/CC  (/(  5/CD  )/)  (NP chemical/NN reactions/NNS)  ./.) 
+
+Count: 1, hypernym: paraphernalia, hyponym:vehicles
+XYZ: paraphernalia & vehicles \\
+1: (S  During/IN  (NP the/AT making/NN)  recently/RB  of/IN  (NP an/AT important/JJ Biblical/JJ film/NN)  ,/,  some/DTI  (NP 40/CD volumes/NNS of/IN research/NN material/NN)  and/CC  (NP sketches/NNS)  not/*  only/AP  of/IN  (NP costumes/NNS)  and/CC  (NP interiors/NNS)  ,/,  but/CC  of/IN  (NP architectural/JJ developments/NNS)  ,/,  (NP sports/NNS arenas/NNS)  ,/,  (NP vehicles/NNS)  ,/,  and/CC  other/AP  (NP paraphernalia/NN)  were/BED  compiled/VBN  ,/,  consulted/VBN  ,/,  and/CC  complied/VBN  with/IN  ./.) 
+
+Count: 1, hypernym: people, hyponym:spouses
+XYZ: people & spouses \\
+1: (S  These/DTS  (NP plans/NNS)  ,/,  like/CS  (NP Du/NP Pont's/NP$)  ,/,  contained/VBD  (NP provisions/NNS)  for/IN  passing/VBG  (NP    the/AT    vote/NN    on/IN    Du/NP    Pont's/NP$    General/NN-TL    Motors/NNS-TL    shares/NNS)  on/RP  to/IN  (NP the/AT ultimate/JJ stockholders/NNS of/IN Du/NP Pont/NP)  ,/,  (NP Christiana/NP)  ,/,  and/CC  (NP Delaware/NP)  ,/,  except/IN  that/CS  (NP officers/NNS)  and/CC  (NP directors/NNS of/IN the/AT three/CD companies/NNS)  ,/,  their/PP$  (NP spouses/NNS)  ,/,  and/CC  other/AP  (NP people/NNS)  living/VBG  in/IN  their/PP$  (NP households/NNS)  ,/,  as/QL  well/RB  as/CS  other/AP  specified/VBN  (NP persons/NNS)  ,/,  were/BED  to/TO  be/BE  totally/RB  disenfranchised/VBN  ./.) 
+
+Count: 1, hypernym: concepts, hyponym:purgation
+XYZ: concepts & purgation \\
+1: (S  (NP Concepts/NNS)  such/JJ  as/CS  (NP grace/NN)  ,/,  (NP damnation/NN)  ,/,  (NP purgation/NN)  ,/,  (NP blasphemy/NN)  ,/,  or/CC  (NP the/AT chain/NN)  of/IN  being/BEG  ,/,  which/WDT  are/BER  everywhere/RB  implicit/JJ  in/IN  (NP classic/NN)  and/CC  (NP Shakespearean/JJ tragedy/NN)  ,/,  lose/VB  their/PP$  (NP vitality/NN)  ./.) 
+
+Count: 1, hypernym: corporations, hyponym:banks
+XYZ: corporations & banks \\
+1: (S  (NP The/AT bill/NN)  ,/,  which/WDT  (NP Daniel/NP)  said/VBD  he/PPS  drafted/VBD  personally/RB  ,/,  would/MD  force/VB  (NP banks/NNS)  ,/,  (NP insurance/NN firms/NNS)  ,/,  (NP pipeline/NN companies/NNS)  and/CC  other/AP  (NP corporations/NNS)  to/TO  report/VB  (NP such/JJ property/NN to/IN the/AT state/NN treasurer/NN)  ./.) 
+
+Count: 1, hypernym: pictures, hyponym:durer
+XYZ: pictures & durer \\
+1: (S  It/PPS  resembles/VBZ  ,/,  too/RB  ,/,  (NP pictures/NNS)  such/JJ  as/CS  (NP Durer/NP)  and/CC  (NP Bruegel/NP)  did/DOD  ,/,  in/IN  which/WDT  all/ABN  that/WPS  looks/VBZ  at/IN  first/RB  to/TO  be/BE  solely/QL  pictorial/JJ  proves/VBZ  on/IN  (NP inspection/NN)  to/TO  be/BE  also/RB  literary/JJ  ,/,  (NP the/AT representation/NN of/IN a/AT proverb/NN)  ,/,  for/IN  (NP example/NN)  ,/,  or/CC  (NP a/AT deadly/JJ sin/NN)  ./.) 
+
+Count: 1, hypernym: property, hyponym:facilities
+XYZ: property & facilities \\
+1: (S  acquire/VB  (NP secret/JJ processes/NNS)  ,/,  (NP technical/JJ data/NN)  ,/,  (NP inventions/NNS)  ,/,  (NP patent/NN applications/NNS)  ,/,  (NP patents/NNS)  ,/,  (NP licenses/NNS)  ,/,  (NP land/NN)  and/CC  (NP interests/NNS in/IN land/NN)  (/(  including/IN  (NP water/NN rights/NNS)  )/)  ,/,  (NP plants/NNS)  and/CC  (NP facilities/NNS)  ,/,  and/CC  other/AP  (NP property/NN)  or/CC  (NP rights/NNS by/IN purchase/NN)  ,/,  (NP license/NN)  ,/,  (NP lease/NN)  ,/,  or/CC  (NP donation/NN)  ;/.  ;/.) 
+
+Count: 1, hypernym: members, hyponym:head
+XYZ: members & head \\
+1: (S  (NP This/DT arrangement/NN)  was/BEDZ  for/IN  (NP Copernicus/NP)  literally/QL  monstrous/JJ  :/:  ``/``  With/IN  (/(  (NP the/AT Ptolemaists/NPS)  )/)  it/PPS  is/BEZ  as/QL  though/CS  (NP an/AT artist/NN)  were/BED  to/TO  gather/VB  (NP the/AT hands/NNS)  ,/,  (NP feet/NNS)  ,/,  (NP head/NN)  and/CC  other/AP  (NP members/NNS)  for/IN  his/PP$  (NP images/NNS from/IN divers/JJ models/NNS)  ,/,  (NP each/DT part/NN)  excellently/QL  drawn/VBN  ,/,  but/CC  not/*  related/VBN  to/IN  a/AT  single/AP  (NP body/NN)  ;/.  ;/.) 
+
+Count: 1, hypernym: records, hyponym:correspondence
+XYZ: records & correspondence \\
+1: (S  (NP The/AT two/CD Governments/NNS-TL)  shall/MD  have/HV  (NP the/AT right/NN)  at/IN  all/ABN  (NP reasonable/JJ times/NNS)  to/TO  examine/VB  (NP such/JJ books/NNS)  and/CC  (NP records/NNS)  and/CC  all/ABN  other/AP  (NP documents/NNS)  ,/,  (NP correspondence/NN)  ,/,  (NP memoranda/NNS)  and/CC  other/AP  (NP records/NNS)  involving/VBG  (NP transactions/NNS)  relating/VBG  to/IN  agreed/VBN  (NP projects/NNS)  ./.) 
+
+Count: 1, hypernym: additives, hyponym:polyester
+XYZ: additives & polyester \\
+1: (S  In/IN  one-shot/JJ  ,/,  (NP the/AT isocyanate/NN)  ,/,  (NP polyester/NN)  or/CC  (NP polyether/NN resin/NN)  ,/,  (NP catalyst/NN)  ,/,  and/CC  other/AP  (NP additives/NNS)  are/BER  mixed/VBN  directly/RB  and/CC  (NP a/AT foam/NN)  is/BEZ  produced/VBN  immediately/RB  ./.) 
+
+Count: 1, hypernym: concepts, hyponym:grace
+XYZ: concepts & grace \\
+1: (S  (NP Concepts/NNS)  such/JJ  as/CS  (NP grace/NN)  ,/,  (NP damnation/NN)  ,/,  (NP purgation/NN)  ,/,  (NP blasphemy/NN)  ,/,  or/CC  (NP the/AT chain/NN)  of/IN  being/BEG  ,/,  which/WDT  are/BER  everywhere/RB  implicit/JJ  in/IN  (NP classic/NN)  and/CC  (NP Shakespearean/JJ tragedy/NN)  ,/,  lose/VB  their/PP$  (NP vitality/NN)  ./.) 
+
+Count: 1, hypernym: organizations, hyponym:centers
+XYZ: organizations & centers \\
+1: (S  Other/AP  (NP THC/NN activities/NNS)  followed/VBD  ,/,  conducted/VBN  by/IN  shopping/VBG  (NP centers/NNS)  ,/,  (NP department/NN stores/NNS)  ,/,  (NP recreation/NN equipment/NN dealers/NNS)  ,/,  (NP radio-TV/NN stations/NNS)  ,/,  (NP newspapers/NNS)  ,/,  and/CC  other/AP  (NP organizations/NNS)  interested/VBN  in/IN  (NP the/AT need/NN)  existing/VBG  to/TO  acquaint/VB  (NP youngsters/NNS with/IN the/AT proper/JJ use/NN)  of/IN  sporting/VBG  (NP firearms/NNS)  and/CC  (NP the/AT development/NN of/IN correct/JJ attitudes/NNS)  and/CC  (NP appreciations/NNS)  related/VBN  to/IN  hunting/VBG  and/CC  (NP wise/JJ use/NN)  of/IN  our/PP$  (NP natural/JJ resources/NNS)  ./.) 
+
+Count: 1, hypernym: factors, hyponym:compromise
+XYZ: factors & compromise \\
+1: (S  Even/RB  so/RB  ,/,  (NP confusion/NN in/IN this/DT period/NN)  gained/VBD  (NP such/JJ strength/NN)  (/(  from/IN  (NP compromise/NN)  and/CC  other/AP  (NP factors/NNS)  )/)  that/CS  it/PPS  led/VBD  to/IN  (NP the/AT bloodiest/JJT war/NN)  of/IN  the/AT  Nineteenth/OD-TL  (NP century/NN)  ./.) 
+
+Count: 1, hypernym: developments, hyponym:information
+XYZ: developments & information \\
+1: (S  All/ABN  (NP research/NN)  within/IN  the/AT  United/VBN-TL  (NP States/NNS-TL)  contracted/VBN  for/IN  ,/,  sponsored/VBN  ,/,  cosponsored/VBN  ,/,  or/CC  authorized/VBN  under/IN  (NP authority/NN of/IN this/DT Act/NN-TL)  ,/,  shall/MD  be/BE  provided/VBN  for/IN  in/IN  (NP such/JJ manner/NN)  that/CS  all/ABN  (NP information/NN)  ,/,  (NP uses/NNS)  ,/,  (NP products/NNS)  ,/,  (NP processes/NNS)  ,/,  (NP patents/NNS)  ,/,  and/CC  other/AP  (NP developments/NNS)  resulting/VBG  from/IN  (NP such/JJ research/NN)  developed/VBN  by/IN  (NP Government/NN-TL expenditure/NN)  will/MD  (/(  with/IN  (NP such/JJ exceptions/NNS)  and/CC  (NP limitations/NNS)  ,/,  if/CS  any/DTI  ,/,  as/CS  (NP the/AT Secretary/NN-TL)  may/MD  find/VB  to/TO  be/BE  necessary/JJ  in/IN  (NP the/AT interest/NN of/IN national/JJ defense/NN)  )/)  be/BE  available/JJ  to/IN  (NP the/AT general/JJ public/NN)  ./.) 
+
+Count: 1, hypernym: ordinance, hyponym:means
+XYZ: ordinance & means \\
+1: (S  At/IN  the/AT  last/AP  (NP session/NN of/IN the/AT General/JJ-TL Assembly/NN-TL)  ,/,  (NP the/AT town/NN)  was/BEDZ  authorized/VBN  to/TO  adopt/VB  such/ABL  (NP an/AT ordinance/NN)  as/CS  (NP a/AT means/NNS)  of/IN  making/VBG  (NP enforcement/NN of/IN minor/JJ offenses/NNS)  more/QL  effective/JJ  ./.) 
+
+Count: 1, hypernym: energies, hyponym:changes
+XYZ: energies & changes \\
+1: (S  (NP This/DT conformational/NN entropy/NN)  is/BEZ  ,/,  in/IN  (NP this/DT case/NN)  ,/,  equal/JJ  to/IN  (NP the/AT usual/JJ entropy/NN)  ,/,  for/CS  there/EX  are/BER  no/AT  other/AP  (NP changes/NNS)  or/CC  other/AP  (NP energies/NNS)  involved/VBN  ./.) 
+
+Count: 1, hypernym: additives, hyponym:isocyanate
+XYZ: additives & isocyanate \\
+1: (S  In/IN  one-shot/JJ  ,/,  (NP the/AT isocyanate/NN)  ,/,  (NP polyester/NN)  or/CC  (NP polyether/NN resin/NN)  ,/,  (NP catalyst/NN)  ,/,  and/CC  other/AP  (NP additives/NNS)  are/BER  mixed/VBN  directly/RB  and/CC  (NP a/AT foam/NN)  is/BEZ  produced/VBN  immediately/RB  ./.) 
+
+Count: 1, hypernym: purposes, hyponym:cereals
+XYZ: purposes & cereals \\
+1: (S  (NP The/AT farm/NN value/NN of/IN seeds/NNS)  produced/VBN  in/IN  (NP this/DT country/NN)  for/IN  all/ABN  (NP purposes/NNS)  ,/,  including/IN  (NP the/AT cereals/NNS)  ,/,  is/BEZ  (NP nearly/RB 10/CD billion/CD dollars/NNS)  (NP a/AT year/NN)  ./.) 
+
+Count: 1, hypernym: privileges, hyponym:vicar
+XYZ: privileges & vicar \\
+1: (S  This/DT  refers/VBZ  to/IN  what/WDT  had/HVD  happened/VBN  after/CS  (NP the/AT Earl/NN-TL of/IN-TL Warwick/NP-TL)  died/VBD  in/IN  1590/CD  ,/,  when/WRB  (NP the/AT town/NN)  petitioned/VBD  (NP Burghley/NP for/IN the/AT right/NN)  to/TO  name/VB  (NP the/AT vicar/NN)  and/CC  (NP schoolmaster/NN)  and/CC  other/AP  (NP privileges/NNS)  but/CC  (NP Greville/NP)  bought/VBD  (NP the/AT lordship/NN)  for/IN  himself/PPL  ./.) 
+
+Count: 1, hypernym: companies, hyponym:designer
+XYZ: companies & designer \\
+1: (S  As/CS  (NP a/AT designer/NN)  and/CC  (NP manufacturer/NN of/IN textile/NN production/NN machinery/NN)  ,/,  (NP Leesona/NP)  and/CC  other/AP  (NP companies/NNS)  in/IN  its/PP$  (NP industry/NN)  have/HV  sought/VBN  to/TO  meet/VB  (NP this/DT challenge/NN)  with/IN  new/JJ  or/CC  improved/VBN  (NP equipment/NN)  and/CC  (NP methods/NNS)  that/WPS  would/MD  increase/VB  (NP production/NN)  ,/,  yet/CC  maintain/VB  both/ABX  (NP quality/NN)  and/CC  (NP flexibility/NN)  ./.) 
+
+Count: 1, hypernym: compensation, hyponym:commission
+XYZ: compensation & commission \\
+1: (S  (NP Outside/JJ salesmen/NNS)  deduct/VB  all/ABN  (NP expenses/NNS)  attributable/JJ  to/IN  earning/VBG  (NP a/AT salary/NN)  ,/,  (NP commission/NN)  ,/,  or/CC  other/AP  (NP compensation/NN)  ./.) 
+
+Count: 1, hypernym: landmarks, hyponym:tomb
+XYZ: landmarks & tomb \\
+1: (S  Similarly/RB  in/IN  (NP Illinois/NP)  there/EX  is/BEZ  (NP Lincoln/NP country/NN)  to/TO  be/BE  seen/VBN  --/--  his/PP$  (NP tomb/NN)  and/CC  other/AP  (NP landmarks/NNS)  ./.) 
+
+Count: 1, hypernym: employees, hyponym:officers
+XYZ: employees & officers \\
+1: (S  (NP A/AT flat/JJ reduction/NN)  of/IN  10/CD  per/IN  (NP cent/NN in/IN the/AT salary/NN)  of/IN  all/ABN  (NP officers/NNS)  ,/,  (NP supervisors/NNS)  and/CC  other/AP  (NP employees/NNS)  not/*  belonging/VBG  to/IN  (NP unions/NNS)  ./.) 
+
+Count: 1, hypernym: literature, hyponym:speeches
+XYZ: literature & speeches \\
+1: (S  In/IN  (NP accordance/NN with/IN legislation/NN)  passed/VBN  at/IN  the/AT  last/AP  (NP session/NN of/IN Congress/NP)  ,/,  (NP each/DT Representative/NN-TL)  is/BEZ  authorized/VBN  to/TO  deliver/VB  to/IN  (NP the/AT Post/NN-TL Office/NN-TL in/IN bulk/NN newsletters/NNS)  ,/,  (NP speeches/NNS)  and/CC  other/AP  (NP literature/NN)  to/TO  be/BE  dropped/VBN  in/IN  (NP every/AT letter/NN box/NN)  in/IN  his/PP$  (NP district/NN)  ./.) 
+
+Count: 1, hypernym: microorganisms, hyponym:cells
+XYZ: microorganisms & cells \\
+1: (S  Many/AP  (NP cells/NNS)  ,/,  (NP bacteria/NNS)  ,/,  and/CC  other/AP  (NP microorganisms/NNS)  are/BER  transparent/JJ  to/IN  (NP visible/JJ light/NN)  and/CC  must/MD  be/BE  stained/VBN  for/IN  (NP microscopic/JJ investigation/NN)  ./.) 
+
+Count: 1, hypernym: equipment, hyponym:presses
+XYZ: equipment & presses \\
+1: (S  If/CS  (NP A-Z/NP-TL)  could/MD  buy/VB  (NP Ticonderoga/NP)  cheaply/RB  and/CC  use/VB  their/PP$  (NP presses/NNS)  and/CC  (NP dies/NNS)  and/CC  other/AP  (NP equipment/NN)  ,/,  if/CS  (NP William/NP)  could/MD  hit/VB  precisely/RB  (NP the/AT right/JJ promotion/NN note/NN)  ,/,  if/CS  (NP the/AT money/NN hurdle/NN)  was/BEDZ  not/*  insurmountable/JJ  ./.) 
+
+Count: 1, hypernym: spots, hyponym:elbows
+XYZ: spots & elbows \\
+1: (S  In/IN  (NP spots/NNS)  such/JJ  as/CS  (NP the/AT elbows/NNS)  and/CC  (NP knees/NNS)  the/AT  second/OD  (NP skin/NN)  is/BEZ  worn/VBN  off/RP  and/CC  I/PPSS  realized/VBD  (NP the/AT aborigines/NNS)  were/BED  much/QL  darker/JJR  than/CS  they/PPSS  appeared/VBD  ;/.  ;/.) 
+
+Count: 1, hypernym: monuments, hyponym:statues
+XYZ: monuments & statues \\
+1: (S  (NP Statues/NNS)  and/CC  other/AP  (NP monuments/NNS)  that/WPS  stood/VBD  there/RB  were/BED  stolen/VBN  ,/,  mostly/RB  by/IN  (NP the/AT waves/NNS of/IN Crusaders/NNS-TL)  ./.) 
+
+Count: 1, hypernym: industry, hyponym:communications
+XYZ: industry & communications \\
+1: (S  (NP Industry/NN)  ,/,  including/IN  (NP the/AT production/NN of/IN fertilizer/NN)  ,/,  (NP irrigation/NN)  and/CC  (NP power/NN)  ,/,  (NP transport/NN)  and/CC  (NP communications/NNS)  ,/,  and/CC  (NP credit/NN institutions/NNS)  ;/.  ;/.) 
+
+Count: 1, hypernym: developments, hyponym:patents
+XYZ: developments & patents \\
+1: (S  All/ABN  (NP research/NN)  within/IN  the/AT  United/VBN-TL  (NP States/NNS-TL)  contracted/VBN  for/IN  ,/,  sponsored/VBN  ,/,  cosponsored/VBN  ,/,  or/CC  authorized/VBN  under/IN  (NP authority/NN of/IN this/DT Act/NN-TL)  ,/,  shall/MD  be/BE  provided/VBN  for/IN  in/IN  (NP such/JJ manner/NN)  that/CS  all/ABN  (NP information/NN)  ,/,  (NP uses/NNS)  ,/,  (NP products/NNS)  ,/,  (NP processes/NNS)  ,/,  (NP patents/NNS)  ,/,  and/CC  other/AP  (NP developments/NNS)  resulting/VBG  from/IN  (NP such/JJ research/NN)  developed/VBN  by/IN  (NP Government/NN-TL expenditure/NN)  will/MD  (/(  with/IN  (NP such/JJ exceptions/NNS)  and/CC  (NP limitations/NNS)  ,/,  if/CS  any/DTI  ,/,  as/CS  (NP the/AT Secretary/NN-TL)  may/MD  find/VB  to/TO  be/BE  necessary/JJ  in/IN  (NP the/AT interest/NN of/IN national/JJ defense/NN)  )/)  be/BE  available/JJ  to/IN  (NP the/AT general/JJ public/NN)  ./.) 
+
+Count: 1, hypernym: microorganisms, hyponym:yeasts
+XYZ: microorganisms & yeasts \\
+1: (S  (NP The/AT chief/JJS factors/NNS)  responsible/JJ  for/IN  (NP the/AT spoilage/NN of/IN fresh/JJ foodstuffs/NNS)  are/BER  (/(  1/CD  )/)  (NP microorganisms/NNS)  such/JJ  as/CS  (NP bacteria/NNS)  ,/,  (NP molds/NNS)  ,/,  and/CC  (NP yeasts/NNS)  ,/,  (/(  2/CD  )/)  (NP enzymes/NNS)  ,/,  (/(  3/CD  )/)  (NP insects/NNS)  ,/,  (/(  4/CD  )/)  sprouting/VBG  ,/,  and/CC  (/(  5/CD  )/)  (NP chemical/NN reactions/NNS)  ./.) 
+
+Count: 1, hypernym: county, hyponym:board
+XYZ: county & board \\
+1: (S  (NP The/AT Board/NN-TL of/IN-TL County/NN-TL Commissioners/NNS-TL)  ,/,  (NP the/AT Sanitary/JJ-TL Commission/NN-TL)  ,/,  the/AT  Planning/VBG-TL  and/CC-TL  Zoning/VBG-TL  (NP Board/NN-TL)  and/CC  other/AP  (NP county/NN)  (NP official/JJ bodies/NNS)  use/VB  recording/VBG  (NP machines/NNS)  for/IN  all/ABN  (NP public/NN business/NN in/IN order/NN)  to/TO  prevent/VB  (NP law/NN suits/NNS)  and/CC  other/AP  (NP misunderstandings/NNS)  about/IN  what/WDT  actually/RB  happened/VBD  at/IN  their/PP$  (NP meetings/NNS)  ./.) 
+
+Count: 1, hypernym: employees, hyponym:supervisors
+XYZ: employees & supervisors \\
+1: (S  (NP A/AT flat/JJ reduction/NN)  of/IN  10/CD  per/IN  (NP cent/NN in/IN the/AT salary/NN)  of/IN  all/ABN  (NP officers/NNS)  ,/,  (NP supervisors/NNS)  and/CC  other/AP  (NP employees/NNS)  not/*  belonging/VBG  to/IN  (NP unions/NNS)  ./.) 
+
+Count: 1, hypernym: features, hyponym:roads
+XYZ: features & roads \\
+1: (S  Most/AP  (NP counties/NNS)  also/RB  have/HV  (NP maps/NNS)  available/JJ  from/IN  (NP the/AT county/NN engineer/NN)  showing/VBG  (NP roads/NNS)  and/CC  other/AP  (NP features/NNS)  and/CC  from/IN  (NP the/AT assessor's/NN$ office/NN)  showing/VBG  (NP ownerships/NNS of/IN land/NN)  ./.) 
+
+Count: 1, hypernym: managers, hyponym:lawyers
+XYZ: managers & lawyers \\
+1: (S  (NP Boston/NP)  has/HVZ  been/BEN  controlled/VBN  by/IN  a/AT  few/AP  (NP capitalists/NNS)  ,/,  (NP lawyers/NNS)  and/CC  other/AP  (NP managers/NNS)  ,/,  who/WPS  told/VBD  (NP the/AT editors/NNS)  what/WDT  to/TO  say/VB  and/CC  (NP the/AT preachers/NNS)  what/WDT  to/TO  think/VB  ''/''  ./.) 
+
+Count: 1, hypernym: additives, hyponym:catalyst
+XYZ: additives & catalyst \\
+1: (S  In/IN  one-shot/JJ  ,/,  (NP the/AT isocyanate/NN)  ,/,  (NP polyester/NN)  or/CC  (NP polyether/NN resin/NN)  ,/,  (NP catalyst/NN)  ,/,  and/CC  other/AP  (NP additives/NNS)  are/BER  mixed/VBN  directly/RB  and/CC  (NP a/AT foam/NN)  is/BEZ  produced/VBN  immediately/RB  ./.) 
+
+Count: 1, hypernym: privileges, hyponym:schoolmaster
+XYZ: privileges & schoolmaster \\
+1: (S  This/DT  refers/VBZ  to/IN  what/WDT  had/HVD  happened/VBN  after/CS  (NP the/AT Earl/NN-TL of/IN-TL Warwick/NP-TL)  died/VBD  in/IN  1590/CD  ,/,  when/WRB  (NP the/AT town/NN)  petitioned/VBD  (NP Burghley/NP for/IN the/AT right/NN)  to/TO  name/VB  (NP the/AT vicar/NN)  and/CC  (NP schoolmaster/NN)  and/CC  other/AP  (NP privileges/NNS)  but/CC  (NP Greville/NP)  bought/VBD  (NP the/AT lordship/NN)  for/IN  himself/PPL  ./.) 
+
+Count: 1, hypernym: buildings, hyponym:apartments
+XYZ: buildings & apartments \\
+1: (S  (NP Residential/JJ building/NN)  consists/VBZ  of/IN  (NP houses/NNS)  ,/,  (NP apartments/NNS)  ,/,  (NP hotels/NNS)  ,/,  (NP dormitories/NNS)  and/CC  other/AP  (NP buildings/NNS)  designed/VBN  for/IN  (NP shelter/NN)  ./.) 
+
+Count: 1, hypernym: activities, hyponym:speed
+XYZ: activities & speed \\
+1: (S  Generally/RB  ,/,  (NP states/NNS)  reserve/VB  for/IN  (NP communities/NNS)  (NP the/AT right/NN)  to/TO  have/HV  (NP local/JJ ordinances/NNS)  regulating/VBG  (NP speed/NN)  and/CC  other/AP  (NP activities/NNS)  ./.) 
+
+Count: 1, hypernym: property, hyponym:plants
+XYZ: property & plants \\
+1: (S  acquire/VB  (NP secret/JJ processes/NNS)  ,/,  (NP technical/JJ data/NN)  ,/,  (NP inventions/NNS)  ,/,  (NP patent/NN applications/NNS)  ,/,  (NP patents/NNS)  ,/,  (NP licenses/NNS)  ,/,  (NP land/NN)  and/CC  (NP interests/NNS in/IN land/NN)  (/(  including/IN  (NP water/NN rights/NNS)  )/)  ,/,  (NP plants/NNS)  and/CC  (NP facilities/NNS)  ,/,  and/CC  other/AP  (NP property/NN)  or/CC  (NP rights/NNS by/IN purchase/NN)  ,/,  (NP license/NN)  ,/,  (NP lease/NN)  ,/,  or/CC  (NP donation/NN)  ;/.  ;/.) 
+
+Count: 1, hypernym: parties, hyponym:government
+XYZ: parties & government \\
+1: (S  (NP The/AT electoral/JJ procedure/NN)  prevented/VBD  (NP    the/AT    ready/JJ    identification/NN    of/IN    party/NN    affiliation/NN)  ,/,  but/CC  all/ABN  vitally/RB  interested/VBN  (NP parties/NNS)  ,/,  including/IN  (NP the/AT government/NN)  itself/PPL  ,/,  were/BED  busily/RB  engaged/VBN  in/IN  determining/VBG  (NP the/AT party/NN identifications/NNS)  of/IN  all/ABN  (NP successful/JJ candidates/NNS)  (NP the/AT month/NN following/IN the/AT elections/NNS)  ./.) 
+
+Count: 1, hypernym: records, hyponym:diaries
+XYZ: records & diaries \\
+1: (S  (NP Records/NNS)  such/JJ  as/CS  (NP diaries/NNS)  can/MD  be/BE  kept/VBN  ./.) 
+
+Count: 1, hypernym: fertilizers, hyponym:materials
+XYZ: fertilizers & materials \\
+1: (S  All/ABN  these/DTS  (NP materials/NNS)  and/CC  (NP supplementary/JJ manure/NN)  and/CC  other/AP  (NP fertilizers/NNS)  from/IN  neighboring/VBG  (NP dairy/NN)  and/CC  (NP poultry/NN farms/NNS)  made/VBD  over/RP  (NP 40/CD tons/NNS)  of/IN  finished/VBN  (NP compost/NN)  (NP a/AT year/NN)  ./.) 
+
+Count: 1, hypernym: thing, hyponym:redundancy
+XYZ: thing & redundancy \\
+1: (S  (NP The/AT messy/JJ meals/NNS)  ,/,  (NP the/AT washing/NN of/IN dishes/NNS)  ,/,  (NP the/AT drying/NN of/IN clothes/NNS)  may/MD  be/BE  (NP realism/NN)  ,/,  but/CC  there/EX  is/BEZ  such/ABL  (NP a/AT thing/NN)  as/CS  (NP redundancy/NN)  ./.) 
+
+Count: 1, hypernym: followers, hyponym:number
+XYZ: followers & number \\
+1: (S  (NP Word/NN)  reached/VBD  (NP the/AT company/NN)  that/CS  (NP the/AT man/NN)  behind/IN  these/DTS  (NP depredations/NNS)  was/BEDZ  (NP Manuel/NP Gonzales/NP)  ,/,  (NP a/AT man/NN)  with/IN  many/AP  (NP followers/NNS)  ,/,  including/IN  (NP a/AT number/NN)  who/WPS  were/BED  kept/VBN  in/IN  (NP line/NN through/IN fear/NN)  of/IN  him/PPO  ./.) 
+
+Count: 1, hypernym: pictures, hyponym:bruegel
+XYZ: pictures & bruegel \\
+1: (S  It/PPS  resembles/VBZ  ,/,  too/RB  ,/,  (NP pictures/NNS)  such/JJ  as/CS  (NP Durer/NP)  and/CC  (NP Bruegel/NP)  did/DOD  ,/,  in/IN  which/WDT  all/ABN  that/WPS  looks/VBZ  at/IN  first/RB  to/TO  be/BE  solely/QL  pictorial/JJ  proves/VBZ  on/IN  (NP inspection/NN)  to/TO  be/BE  also/RB  literary/JJ  ,/,  (NP the/AT representation/NN of/IN a/AT proverb/NN)  ,/,  for/IN  (NP example/NN)  ,/,  or/CC  (NP a/AT deadly/JJ sin/NN)  ./.) 
+

@@ -1,0 +1,312 @@
+Output from part 2, in total there were 77 causal relations found
+--------------------------------------------------------------------------------
+XYZ: interpretations & present & None & music \\
+Count: 1, NP1: interpretations, V: present, PP: None, NP2: music
+1:  (S  Other/AP  (NP interpretations/NNS)  present/VB  (NP the/AT music/NN)  as/CS  (NP an/AT essentially/RB intimate/JJ creation/NN)  ./.) 
+
+XYZ: roar & changed & to & growl \\
+Count: 1, NP1: roar, V: changed, PP: to, NP2: growl
+1:  (S Her/PP$ (NP roar/NN) changed/VBD to/IN (NP a/AT growl/NN) ./.) 
+
+XYZ: orders & ending & None & campaign \\
+Count: 1, NP1: orders, V: ending, PP: None, NP2: campaign
+1:  (S  The/AT  next/AP  (NP day/NN Sherman/NP)  issued/VBD  his/PP$  (NP orders/NNS)  ending/VBG  (NP the/AT campaign/NN)  and/CC  pulled/VBD  his/PP$  (NP armies/NNS)  back/RB  to/IN  (NP Atlanta/NP)  ./.) 
+
+XYZ: disaster & struck & None & discovery \\
+Count: 1, NP1: disaster, V: struck, PP: None, NP2: discovery
+1:  (S  What/WDT  (NP disaster/NN)  struck/VBD  (NP the/AT Discovery/NN-TL)  during/IN  those/DTS  (NP seventeen/CD months/NNS)  ?/.  ?/.) 
+
+XYZ: book & went & to & press \\
+Count: 1, NP1: book, V: went, PP: to, NP2: press
+1:  (S  Last/AP  two/CD  to/TO  be/BE  added/VBN  before/CS  (NP the/AT book/NN)  went/VBD  to/IN  (NP press/NN)  were/BED  (NP the/AT marriages/NNS of/IN Meredith/NP Jane/NP Cooper/NP)  ,/,  (NP daughter/NN of/IN the/AT Grant/NP B./NP Coopers/NPS)  ,/,  to/IN  (NP Robert/NP Knox/NP Worrell/NP)  ,/,  and/CC  of/IN  (NP Mary/NP Alice/NP Ghormley/NP to/IN Willard/NP Pen/NP Tudor/NP)  ./.) 
+
+XYZ: man & sought & None & justice \\
+Count: 1, NP1: man, V: sought, PP: None, NP2: justice
+1:  (S  Whereas/CS  the/AT  eighteenth/OD  (NP century/NN)  had/HVD  been/BEN  (NP a/AT time/NN)  in/IN  which/WDT  (NP man/NN)  sought/VBD  (NP justice/NN)  ,/,  the/AT  nineteenth/OD  and/CC  twentieth/OD  have/HV  been/BEN  (NP centuries/NNS)  in/IN  which/WDT  (NP men/NNS)  are/BER  satisfied/VBN  with/IN  (NP law/NN)  ./.) 
+
+XYZ: church & meets & None & change \\
+Count: 1, NP1: church, V: meets, PP: None, NP2: change
+1:  (S '/' (NP church/NN-HL) meets/VBZ-HL (NP change/NN-HL) '/') 
+
+XYZ: owners & met & None & defeat \\
+Count: 1, NP1: owners, V: met, PP: None, NP2: defeat
+1:  (S  Throughout/IN  (NP the/AT Adirondack/NP region/NN)  abandoned/VBN  (NP farm/NN homes/NNS)  and/CC  (NP wild/JJ orchards/NNS)  bear/VB  (NP ghostly/JJ testimony/NN)  that/CS  their/PP$  (NP owners/NNS)  met/VBD  (NP defeat/NN)  ./.) 
+
+XYZ: pike & jumped & to & conclusion \\
+Count: 1, NP1: pike, V: jumped, PP: to, NP2: conclusion
+1:  (S  Without/IN  (NP further/JJR inquiry/NN)  ,/,  (NP Pike/NP)  jumped/VBD  to/IN  (NP the/AT conclusion/NN)  that/CS  (NP Robinson/NP)  was/BEDZ  guilty/JJ  ,/,  and/CC  ,/,  following/VBG  (NP the/AT honorable/JJ route/NN)  that/WPS  would/MD  eventually/RB  lead/VB  to/IN  the/AT  dueling/VBG  (NP ground/NN)  ,/,  sent/VBD  (NP a/AT message/NN to/IN Robinson/NP)  through/IN  his/PP$  (NP friends/NNS)  ,/,  demanding/VBG  that/CS  he/PPS  either/CC  confirm/VB  or/CC  deny/VB  his/PP$  (NP complicity/NN)  ./.) 
+
+XYZ: determination & deserve & None & help \\
+Count: 1, NP1: determination, V: deserve, PP: None, NP2: help
+1:  (S  But/CC  ,/,  just/RB  as/CS  we/PPSS  drew/VBD  on/IN  (NP Europe/NP for/IN assistance/NN)  in/IN  our/PP$  (NP earlier/JJR years/NNS)  ,/,  so/RB  now/RB  do/DO  these/DTS  new/JJ  and/CC  emerging/VBG  (NP nations/NNS)  that/WPS  do/DO  have/HV  (NP this/DT faith/NN)  and/CC  (NP determination/NN)  deserve/VB  (NP help/NN)  ./.) 
+
+XYZ: children & invited & to & concert \\
+Count: 1, NP1: children, V: invited, PP: to, NP2: concert
+1:  (S  Each/DT  of/IN  (NP the/AT children/NNS)  invited/VBN  to/IN  (NP the/AT concert/NN)  wore/VBD  (NP a/AT name/NN tag/NN)  marked/VBN  with/IN  a/AT  red/JJ  ,/,  white/JJ  and/CC  (NP blue/JJ ribbon/NN)  ./.) 
+
+XYZ: bureau & contributed & to & planning \\
+Count: 1, NP1: bureau, V: contributed, PP: to, NP2: planning
+1:  (S  (NP The/AT Bureau/NN-TL)  contributed/VBD  to/IN  (NP the/AT planning/NN)  and/CC  (NP    success/NN    of/IN    the/AT    Symposium/NN-TL    through/IN    the/AT    efforts/NNS    of/IN    Mr./NP    W./NP    A./NP    Wildhack/NP)  ,/,  (NP General/JJ-TL Chairman/NN-TL)  ,/,  and/CC  (NP Dr./NN-TL C./NP M./NP Herzfeld/NP)  ,/,  (NP Program/NN-TL Chairman/NN-TL)  ./.) 
+
+XYZ: work & demands & None & attention \\
+Count: 1, NP1: work, V: demands, PP: None, NP2: attention
+1:  (S  (NP The/AT presence/NN of/IN genuine/JJ mimesis/NN in/IN art/NN)  is/BEZ  marked/VBN  by/IN  (NP the/AT persistence/NN)  with/IN  which/WDT  (NP the/AT work/NN)  demands/VBZ  (NP attention/NN)  and/CC  compels/VBZ  (NP valuation/NN)  even/RB  though/CS  it/PPS  is/BEZ  but/RB  vaguely/RB  understood/VBN  ./.) 
+
+XYZ: corporation & making & None & acquisition \\
+Count: 1, NP1: corporation, V: making, PP: None, NP2: acquisition
+1:  (S  (NP No/AT corporation/NN)  engaged/VBN  in/IN  (NP commerce/NN)  shall/MD  acquire/VB  ,/,  directly/RB  or/CC  indirectly/RB  ,/,  (NP the/AT whole/NN)  or/CC  any/DTI  (NP part/NN of/IN the/AT stock/NN)  or/CC  other/AP  (NP share/NN capital/NN of/IN another/DT corporation/NN)  engaged/VBN  also/RB  in/IN  (NP commerce/NN)  ,/,  where/WRB  (NP the/AT effect/NN of/IN such/JJ acquisition/NN)  may/MD  be/BE  to/TO  substantially/RB  lessen/VB  (NP competition/NN between/IN the/AT corporation/NN)  whose/WP$  (NP stock/NN)  is/BEZ  so/RB  acquired/VBN  and/CC  (NP the/AT corporation/NN)  making/VBG  (NP the/AT acquisition/NN)  ,/,  or/CC  to/TO  restrain/VB  (NP such/JJ commerce/NN)  in/IN  any/DTI  (NP section/NN)  or/CC  (NP community/NN)  ,/,  or/CC  tend/VB  to/TO  create/VB  (NP a/AT monopoly/NN)  of/IN  any/DTI  (NP line/NN of/IN commerce/NN)  ./.) 
+
+XYZ: food & produces & None & changes \\
+Count: 1, NP1: food, V: produces, PP: None, NP2: changes
+1:  (S  (NP Enzymatic/JJ action/NN)  in/IN  stored/VBN  (NP food/NN)  produces/VBZ  (NP changes/NNS)  which/WDT  can/MD  adversely/RB  affect/VB  (NP the/AT appearance/NN of/IN food/NN)  or/CC  its/PP$  (NP palatability/NN)  ./.) 
+
+XYZ: quest & offers & None & careers \\
+Count: 1, NP1: quest, V: offers, PP: None, NP2: careers
+1:  (S (NP The/AT quest/NN) offers/VBZ (NP careers/NNS) ./.) 
+
+XYZ: total & marketing & None & program \\
+Count: 1, NP1: total, V: marketing, PP: None, NP2: program
+1:  (S  Have/HV  you/PPSS  evaluated/VBN  (NP the/AT proper/JJ place/NN)  of/IN  advertising/VBG  and/CC  all/ABN  (NP phases/NNS of/IN promotion/NN)  in/IN  your/PP$  (NP total/NN)  marketing/VBG  (NP program/NN)  --/--  from/IN  (NP the/AT standpoint/NN of/IN effort/NN)  ,/,  (NP money/NN)  ,/,  and/CC  (NP effectiveness/NN)  ?/.  ?/.) 
+
+XYZ: distress & associated & with & performance \\
+Count: 1, NP1: distress, V: associated, PP: with, NP2: performance
+1:  (S  (NP The/AT pain/NN)  and/CC  (NP distress/NN)  associated/VBN  with/IN  (NP the/AT performance/NN)  may/MD  easily/RB  give/VB  (NP the/AT wife/NN)  (NP a/AT deep-seated/JJ dread/NN of/IN marital/JJ relations/NNS)  and/CC  cause/VB  her/PPO  ,/,  unconsciously/RB  ,/,  to/TO  make/VB  (NP the/AT sex/NN act/NN)  unpleasant/JJ  and/CC  difficult/JJ  for/IN  both/ABX  by/IN  exercising/VBG  her/PP$  (NP vaginal/JJ muscles/NNS)  to/TO  complicate/VB  his/PP$  (NP penetration/NN)  instead/RB  of/IN  relaxing/VBG  them/PPO  to/TO  facilitate/VB  it/PPO  ./.) 
+
+XYZ: christianity & contributed & to & education \\
+Count: 1, NP1: christianity, V: contributed, PP: to, NP2: education
+1:  (S  We/PPSS  have/HV  already/RB  hinted/VBN  at/IN  (NP the/AT fashion/NN)  in/IN  which/WDT  (NP Christianity/NP)  contributed/VBD  to/IN  (NP education/NN)  and/CC  so/RB  to/IN  (NP intellectual/JJ life/NN)  ./.) 
+
+XYZ: grizzlies & winning & None & streak \\
+Count: 1, NP1: grizzlies, V: winning, PP: None, NP2: streak
+1:  (S  It/PPS  was/BEDZ  (NP Nischwitz'/NP$)  third/OD  (NP straight/JJ victory/NN of/IN the/AT new/JJ season/NN)  and/CC  ran/VBD  (NP the/AT Grizzlies'/NNS$-TL)  winning/VBG  (NP streak/NN)  to/IN  four/CD  straight/JJ  ./.) 
+
+XYZ: screen & drying & None & racks \\
+Count: 1, NP1: screen, V: drying, PP: None, NP2: racks
+1:  (S  (NP Screen/NN-HL)  drying/VBG-HL  (NP racks/NNS-HL)  --/---HL  (NP 16-mesh/JJ screening/NN-HL)  (/(-HL  (NP Saran/NP-HL)  or/CC-HL  (NP Velon/NP-HL)  )/)-HL  ./.-HL) 
+
+XYZ: husband & drops & None & case \\
+Count: 1, NP1: husband, V: drops, PP: None, NP2: case
+1:  (S  When/WRB  (NP the/AT husband/NN)  drops/VBZ  (NP the/AT case/NN)  and/CC  returns/VBZ  to/IN  his/PP$  (NP wife/NN)  ,/,  both/ABX  seem/VB  sorry/JJ  they/PPSS  brought/VBD  (NP the/AT matter/NN)  up/RP  in/IN  the/AT  first/OD  (NP place/NN)  ./.) 
+
+XYZ: company & developed & None & selection \\
+Count: 1, NP1: company, V: developed, PP: None, NP2: selection
+1:  (S  Has/HVZ  your/PP$  (NP company/NN)  developed/VBN  (NP selection/NN)  and/CC  training/VBG  (NP processes/NNS)  that/WPS  are/BER  geared/VBN  to/IN  providing/VBG  (NP the/AT caliber/NN of/IN salesmen/NNS)  you/PPSS  will/MD  need/VB  in/IN  the/AT  next/AP  (NP 10/CD yrs./NNS)  ?/.  ?/.) 
+
+XYZ: president & gave & None & word \\
+Count: 1, NP1: president, V: gave, PP: None, NP2: word
+1:  (S  (NP A/AT little/JJ boy/NN)  came/VBD  to/TO  give/VB  (NP the/AT President/NN-TL)  his/PP$  (NP personal/JJ condolences/NNS)  ,/,  and/CC  (NP the/AT President/NN-TL)  gave/VBD  (NP word/NN)  that/CS  any/DTI  (NP little/JJ boy/NN)  who/WPS  wanted/VBD  to/TO  see/VB  him/PPO  was/BEDZ  to/TO  be/BE  shown/VBN  in/RP  ./.) 
+
+XYZ: fatigues & made & None & streak \\
+Count: 1, NP1: fatigues, V: made, PP: None, NP2: streak
+1:  (S  His/PP$  (NP fatigues/NNS)  made/VBD  (NP a/AT streak/NN)  of/IN  almost/QL  phosphorescent/JJ  green/JJ  in/IN  (NP the/AT mist/NN)  ./.) 
+
+XYZ: counterattack & takes & None & line \\
+Count: 1, NP1: counterattack, V: takes, PP: None, NP2: line
+1:  (S  At/IN  (NP the/AT present/JJ time/NN)  ,/,  (NP the/AT counter-attack/NN)  takes/VBZ  (NP the/AT line/NN)  that/CS  there's/EX+BEZ  no/AT  more/AP  of/IN  (NP the/AT true/JJ spirit/NN)  of/IN  ``/``  (NP integration/NN)  ''/''  in/IN  (NP the/AT North/NR-TL)  than/CS  in/IN  (NP the/AT South/NR-TL)  ./.) 
+
+XYZ: beep & turned & to & buzz \\
+Count: 1, NP1: beep, V: turned, PP: to, NP2: buzz
+1:  (S  If/CS  it/PPS  ever/RB  got/VBD  behind/IN  me/PPO  ,/,  (NP the/AT beep/NN)  turned/VBD  to/IN  (NP a/AT buzz/NN)  ./.) 
+
+XYZ: palace & issued & None & statement \\
+Count: 1, NP1: palace, V: issued, PP: None, NP2: statement
+1:  (S  (NP The/AT day/NN)  following/IN  his/PP$  (NP intervention/NN)  (NP the/AT palace/NN)  issued/VBD  (NP a/AT statement/NN)  reassuring/VBG  (NP the/AT citizens/NNS)  that/CS  ``/``  (NP the/AT possibility/NN)  of/IN  introducing/VBG  (NP    appeals/NNS    concerning/IN    the/AT    establishment/NN    of/IN    electoral/JJ    lists/NNS)  ,/,  (NP lists/NNS of/IN candidates/NNS)  and/CC  finally/RB  (NP the/AT holding/NN of/IN the/AT consultation/NN)  itself/PPL  ''/''  would/MD  be/BE  supported/VBN  by/IN  (NP the/AT King/NN-TL)  himself/PPL  ./.) 
+
+XYZ: president & took & None & pains \\
+Count: 1, NP1: president, V: took, PP: None, NP2: pains
+1:  (S  At/IN  the/AT  same/AP  (NP time/NN)  (NP the/AT President/NN-TL)  took/VBD  (NP pains/NNS)  not/*  to/TO  rule/VB  out/RP  (NP    an/AT    eventual/JJ    meeting/NN    with/IN    the/AT    Soviet/NN-TL    leader/NN)  ./.) 
+
+XYZ: clubs & took & None & line \\
+Count: 1, NP1: clubs, V: took, PP: None, NP2: line
+1:  (S  Finally/RB  ,/,  (NP colleges/NNS)  and/CC  (NP clubs/NNS)  took/VBD  (NP the/AT line/NN)  that/CS  (NP speakers/NNS from/IN England/NP)  were/BED  not/*  wanted/VBN  any/QL  longer/RBR  ,/,  (NP even/RB speakers/NNS)  like/CS  (NP S.K./NP)  ,/,  so/QL  unlike/IN  (NP the/AT novelists/NNS)  and/CC  (NP poets/NNS)  who/WPS  had/HVD  patronized/VBN  (NP the/AT Americans/NPS)  for/IN  many/AP  (NP years/NNS)  ./.) 
+
+XYZ: debate & led & to & decision \\
+Count: 1, NP1: debate, V: led, PP: to, NP2: decision
+1:  (S  (NP The/AT debate/NN)  led/VBD  to/IN  (NP a/AT decision/NN)  that/CS  (NP Chicago/NP)  needed/VBD  neither/CC  (NP a/AT big/JJ name/NN)  nor/CC  an/AT  experienced/VBN  (NP academic/JJ administrator/NN)  ,/,  but/CC  rather/RB  ,/,  as/CS  (NP Trustee/NN-TL Chairman/NN-TL Glen/NP A./NP Lloyd/NP)  put/VBD  it/PPO  ,/,  ``/``  (NP a/AT top/JJS scholar/NN)  in/IN  his/PP$  (NP own/JJ right/NN)  ''/''  --/--  (NP a/AT bright/JJ light/NN)  to/TO  lure/VB  other/AP  (NP top/JJS scholars/NNS to/IN Chicago/NP)  ./.) 
+
+XYZ: teacher & takes & None & hold \\
+Count: 1, NP1: teacher, V: takes, PP: None, NP2: hold
+1:  (S  When/WRB  (NP the/AT child/NN)  raises/VBZ  his/PP$  (NP seat/NN into/IN the/AT air/NN)  ,/,  (NP the/AT teacher/NN)  takes/VBZ  (NP hold/NN)  under/IN  both/ABX  (NP sides/NNS of/IN the/AT pelvis/NN)  ;/.  ;/.) 
+
+XYZ: committee & submitted & None & report \\
+Count: 1, NP1: committee, V: submitted, PP: None, NP2: report
+1:  (S  (NP The/AT committee/NN)  submitted/VBD  (NP a/AT report/NN)  signed/VBN  by/IN  (NP Louis/NP Martin/NP)  and/CC  (NP Leon/NP Wiley/NP with/IN a/AT map/NN)  published/VBN  in/IN  (NP the/AT 1946/CD town/NN report/NN)  ./.) 
+
+XYZ: cities & required & None & permits \\
+Count: 1, NP1: cities, V: required, PP: None, NP2: permits
+1:  (S  To/TO  go/VB  outside/RB  the/AT  few/AP  (NP cities/NNS)  required/VBD  (NP permits/NNS)  ./.) 
+
+XYZ: body & held & None & fire \\
+Count: 1, NP1: body, V: held, PP: None, NP2: fire
+1:  (S  (NP The/AT colors/NNS)  were/BED  astonishing/JJ  ,/,  clear/JJ  and/CC  bright/JJ  ,/,  and/CC  it/PPS  was/BEDZ  as/CS  if/CS  (NP the/AT body/NN)  held/VBD  (NP a/AT fire/NN)  of/IN  its/PP$  own/JJ  ,/,  and/CC  (NP the/AT colors/NNS)  came/VBD  through/IN  (NP that/DT transparent/JJ flesh/NN)  and/CC  (NP skin/NN)  ,/,  vivid/JJ  and/CC  alive/JJ  and/CC  warm/JJ  ./.) 
+
+XYZ: playing & gave & None & work \\
+Count: 1, NP1: playing, V: gave, PP: None, NP2: work
+1:  (S  He/PPS  made/VBD  the/AT  most/AP  of/IN  (NP the/AT long/JJ Brahmsian/JJ phrases/NNS)  ,/,  and/CC  by/IN  (NP the/AT directness/NN)  and/CC  (NP drive/NN)  of/IN  his/PP$  (NP playing/NN)  gave/VBD  (NP the/AT work/NN)  (NP a/AT handsome/JJ performance/NN)  ./.) 
+
+XYZ: age & rewrites & None & events \\
+Count: 1, NP1: age, V: rewrites, PP: None, NP2: events
+1:  (S  1/CD  )/)  (NP Every/AT age/NN)  rewrites/VBZ  (NP the/AT events/NNS)  of/IN  its/PP$  (NP history/NN in/IN terms/NNS)  of/IN  what/WDT  should/MD  have/HV  been/BEN  ,/,  creating/VBG  (NP legends/NNS)  about/IN  itself/PPL  that/WPS  rationalize/VB  (NP contemporary/JJ beliefs/NNS)  and/CC  excuse/VB  (NP contemporary/JJ actions/NNS)  ./.) 
+
+XYZ: issue & lay & with & president \\
+Count: 1, NP1: issue, V: lay, PP: with, NP2: president
+1:  (S  Because/CS  (NP the/AT responsibility/NN)  for/IN  resolving/VBG  (NP the/AT issue/NN)  lay/VBD  with/IN  (NP the/AT President/NN-TL)  ,/,  rather/IN  than/IN  with/IN  his/PP$  (NP doctors/NNS)  ,/,  nothing/PN  raises/VBZ  more/QL  surely/RB  for/IN  us/PPO  (NP the/AT difficulties/NNS)  (NP simple/JJ goodness/NN)  faces/VBZ  in/IN  dealing/VBG  with/IN  (NP    complex/JJ    moral/JJ    problems/NNS    under/IN    political/JJ    pressure/NN)  ./.) 
+
+XYZ: group & conducting & None & review \\
+Count: 1, NP1: group, V: conducting, PP: None, NP2: review
+1:  (S  (NP The/AT group/NN)  conducting/VBG  (NP the/AT review/NN)  is/BEZ  not/*  holding/VBG  (NP formal/JJ hearings/NNS)  ./.) 
+
+XYZ: 10000 & claiming & None & event \\
+Count: 1, NP1: 10000, V: claiming, PP: None, NP2: event
+1:  (S  She/PPS  was/BEDZ  moving/VBG  up/RP  to/IN  (NP the/AT allowance/NN department/NN)  after/CS  winning/VBG  (NP a/AT $10,000/NNS)  claiming/VBG  (NP event/NN)  ./.) 
+
+XYZ: gestapo & destroyed & None & rest \\
+Count: 1, NP1: gestapo, V: destroyed, PP: None, NP2: rest
+1:  (S  and/CC  this/DT  first/OD  (NP section/NN)  was/BEDZ  somehow/RB  preserved/VBN  (/(  there/EX  are/BER  always/RB  these/DTS  (NP    annoying/JJ    little/JJ    mysteries/NNS    about/IN    the/AT    actual/JJ    facts/NNS    of/IN    Malraux's/NP$    life/NN)  )/)  when/WRB  (NP the/AT Gestapo/NP)  destroyed/VBD  (NP the/AT rest/NN)  ./.) 
+
+XYZ: emotions & related & to & fight \\
+Count: 1, NP1: emotions, V: related, PP: to, NP2: fight
+1:  (S  (NP MacLean/NP)  stressed/VBD  correctly/RB  (NP    the/AT    importance/NN    of/IN    the/AT    visceral/JJ    brain/NN    for/IN    preservation/NN    of/IN    the/AT    individual/NN)  and/CC  (NP the/AT species/NN)  ,/,  as/CS  evidenced/VBN  by/IN  (NP the/AT influence/NN of/IN the/AT limbic/JJ brain/NN)  (/(  including/IN  (NP the/AT hypothalamus/NN)  )/)  on/IN  (NP emotions/NNS)  related/VBN  to/IN  (NP fight/NN)  and/CC  (NP flight/NN)  and/CC  also/RB  on/IN  (NP sexual/JJ functions/NNS)  ./.) 
+
+XYZ: play & running & None & bar \\
+Count: 1, NP1: play, V: running, PP: None, NP2: bar
+1:  (S  (NP Susan/NP Johnson/NP)  ,/,  as/CS  (NP the/AT widow/NN)  ,/,  spends/VBZ  the/AT  first/OD  half/ABN  of/IN  (NP the/AT play/NN)  running/VBG  (NP a/AT bar/NN)  and/CC  singing/VBG  about/IN  (NP the/AT unlamented/JJ death/NN)  of/IN  her/PP$  (NP late/JJ husband/NN)  and/CC  the/AT  second/OD  half/ABN  trying/VBG  to/TO  acquire/VB  a/AT  new/JJ  one/CD  ./.) 
+
+XYZ: president & asks & None & support \\
+Count: 1, NP1: president, V: asks, PP: None, NP2: support
+1:  (S  (NP The/AT President/NN-TL)  asks/VBZ  (NP the/AT support/NN)  and/CC  (NP cooperation/NN of/IN Congress/NP)  in/IN  his/PP$  (NP    efforts/NNS    through/IN    the/AT    enactment/NN    of/IN    legislation/NN)  to/TO  provide/VB  (NP federal/JJ grants/NNS to/IN states/NNS)  for/IN  specified/VBN  (NP efforts/NNS)  in/IN  combating/VBG  (NP this/DT disturbing/JJ crime/NN trend/NN)  ./.) 
+
+XYZ: ball & came & to & rest \\
+Count: 1, NP1: ball, V: came, PP: to, NP2: rest
+1:  (S  Having/HVG  hit/VBN  one/CD  of/IN  (NP the/AT trees/NNS)  ,/,  (NP the/AT ball/NN)  came/VBD  to/IN  (NP rest/NN)  not/*  more/AP  than/IN  (NP 160/CD yards/NNS)  out/RP  ./.) 
+
+XYZ: man & made & None & reply \\
+Count: 1, NP1: man, V: made, PP: None, NP2: reply
+1:  (S (NP The/AT man/NN) made/VBD (NP no/AT reply/NN) ./.) 
+
+XYZ: will & gives & None & way \\
+Count: 1, NP1: will, V: gives, PP: None, NP2: way
+1:  (S  That/CS  at/IN  last/AP  (NP the/AT vigilance/NN)  ,/,  (NP the/AT will/NN)  gives/VBZ  (NP way/NN)  ?/.  ?/.) 
+
+XYZ: means & make & None & provision \\
+Count: 1, NP1: means, V: make, PP: None, NP2: provision
+1:  (S  If/CS  you/PPSS  can't/MD*  see/VB  your/PP$  (NP way/NN)  clear/JJ  to/TO  have/HV  (NP summer/NN cooling/NN)  included/VBN  when/WRB  building/VBG  ,/,  by/IN  all/ABN  (NP means/NNS)  make/VB  (NP provision/NN)  for/IN  its/PP$  (NP easy/JJ adding/NN)  later/RBR  ./.) 
+
+XYZ: autumn & dulls & None & blaze \\
+Count: 1, NP1: autumn, V: dulls, PP: None, NP2: blaze
+1:  (S  in/IN  (NP fact/NN)  ,/,  a/AT  freezing/VBG  (NP autumn/NN)  dulls/VBZ  (NP the/AT blaze/NN)  ./.) 
+
+XYZ: dilation & accompanying & None & elongation \\
+Count: 1, NP1: dilation, V: accompanying, PP: None, NP2: elongation
+1:  (S  (NP The/AT dilation/NN)  accompanying/VBG  (NP elongation/NN)  and/CC  the/AT  simultaneously/RB  developed/VBN  (NP anisotropy/NN of/IN compressibility/NN)  have/HV  been/BEN  related/VBN  to/IN  (NP the/AT elongation/NN)  ./.) 
+
+XYZ: people & appreciate & None & experiences \\
+Count: 1, NP1: people, V: appreciate, PP: None, NP2: experiences
+1:  (S  (NP People/NNS)  appreciate/VB  (NP experiences/NNS)  that/WPS  demand/VB  something/PN  of/IN  them/PPO  ./.) 
+
+XYZ: sport & called & None & gymnastics \\
+Count: 1, NP1: sport, V: called, PP: None, NP2: gymnastics
+1:  (S  Taking/VBG  first/OD  (NP things/NNS)  first/RB  ,/,  let's/VB+PPO  understand/VB  (NP the/AT sport/NN)  called/VBN  (NP gymnastics/NN)  ./.) 
+
+XYZ: egos & coping & None & efforts \\
+Count: 1, NP1: egos, V: coping, PP: None, NP2: efforts
+1:  (S  (NP Similarities/NNS to/IN the/AT approach/NN)  which/WDT  I/PPSS  have/HV  described/VBN  are/BER  evident/JJ  in/IN  (NP the/AT prompt/JJ establishment/NN)  of/IN  a/AT  helping/VBG  (NP relationship/NN)  ,/,  (NP quick/JJ appraisal/NN of/IN key/JJS issues/NNS)  ,/,  and/CC  (NP    the/AT    immediate/JJ    mobilization/NN    of/IN    treatment/NN    plans/NNS)  as/CS  (NP the/AT essential/JJ dynamics/NNS)  in/IN  helping/VBG  to/TO  further/VB  (NP the/AT ego's/NN$)  coping/VBG  (NP efforts/NNS)  in/IN  dealing/VBG  with/IN  (NP the/AT interplay/NN)  of/IN  inner/JJ  and/CC  (NP outer/JJ stresses/NNS)  ./.) 
+
+XYZ: note & making & None & request \\
+Count: 1, NP1: note, V: making, PP: None, NP2: request
+1:  (S  (NP A/AT note/NN)  making/VBG  (NP the/AT request/NN)  was/BEDZ  handed/VBN  to/IN  (NP U.S./NP-TL Ambassador/NN-TL Winthrop/NP G./NP Brown/NP)  ./.) 
+
+XYZ: face & showed & None & neglect \\
+Count: 1, NP1: face, V: showed, PP: None, NP2: neglect
+1:  (S  On/IN  the/AT  contrary/JJ  ,/,  he/PPS  was/BEDZ  pleased/VBN  that/CS  his/PP$  (NP face/NN)  showed/VBD  (NP a/AT neglect/NN)  of/IN  several/AP  (NP days/NNS)  ./.) 
+
+XYZ: practices & cause & None & friction \\
+Count: 1, NP1: practices, V: cause, PP: None, NP2: friction
+1:  (S  (NP The/AT Kennedy/NP hope/NN)  is/BEZ  that/CS  ,/,  at/IN  (NP the/AT conference/NN)  or/CC  through/IN  (NP bilateral/JJ talks/NNS)  ,/,  (NP the/AT low-wage/NN)  (NP textile-producing/JJ countries/NNS in/IN Asia/NP)  and/CC  (NP Europe/NP)  will/MD  see/VB  that/CS  ``/``  dumping/VBG  ''/''  (NP practices/NNS)  cause/VB  (NP friction/NN)  all/QL  around/RB  and/CC  may/MD  result/VB  in/IN  (NP import/NN quotas/NNS)  ./.) 
+
+XYZ: charity & interpenetrates & None & justice \\
+Count: 1, NP1: charity, V: interpenetrates, PP: None, NP2: justice
+1:  (S  However/RB  ,/,  it/PPS  is/BEZ  also/RB  (NP a/AT Christian/JJ insight/NN)  to/TO  know/VB  that/CS  unless/CS  (NP charity/NN)  interpenetrates/VBZ  (NP justice/NN)  it/PPS  is/BEZ  not/*  likely/JJ  to/TO  be/BE  (NP freedom/NN)  that/WPS  marches/VBZ  forward/RB  ./.) 
+
+XYZ: god & commits & None & sin \\
+Count: 1, NP1: god, V: commits, PP: None, NP2: sin
+1:  (S  We/PPSS  know/VB  that/CS  no/AT  one/CD  who/WPS  is/BEZ  born/VBN  of/IN  (NP God/NP)  commits/VBZ  (NP sin/NN)  ./.) 
+
+XYZ: salad & gave & None & surcease \\
+Count: 1, NP1: salad, V: gave, PP: None, NP2: surcease
+1:  (S  But/CC  (NP tonight/NR)  his/PP$  (NP drink/NN)  tasted/VBD  like/CS  (NP branch/NN water/NN)  and/CC  even/RB  his/PP$  (NP favorite/JJ meal/NN of/IN steak/NN)  and/CC  tossed/VBN  (NP salad/NN)  gave/VBD  (NP no/AT surcease/NN)  from/IN  the/AT  growing/VBG  (NP weight/NN of/IN the/AT letter/NN)  in/IN  his/PP$  (NP pocket/NN)  ./.) 
+
+XYZ: elizabethans & mixed & None & tragedy \\
+Count: 1, NP1: elizabethans, V: mixed, PP: None, NP2: tragedy
+1:  (S  It/PPS  transcends/VBZ  the/AT  glaring/VBG  (NP fact/NN)  that/CS  (NP the/AT Elizabethans/NPS)  mixed/VBD  (NP tragedy/NN)  and/CC  (NP comedy/NN)  whereas/CS  (NP the/AT Greeks/NPS)  kept/VBD  (NP the/AT two/CD modes/NNS)  severely/QL  distinct/JJ  ./.) 
+
+XYZ: therapy & included & None & digitalization \\
+Count: 1, NP1: therapy, V: included, PP: None, NP2: digitalization
+1:  (S  (NP Therapy/NN)  included/VBD  (NP digitalization/NN)  and/CC  (NP anticoagulation/NN)  ./.) 
+
+XYZ: firm & began & None & operations \\
+Count: 1, NP1: firm, V: began, PP: None, NP2: operations
+1:  (S  (NP The/AT firm/NN)  began/VBD  (NP operations/NNS)  back/RB  in/IN  1925/CD  and/CC  sells/VBZ  (NP equipment/NN in/IN the/AT central/JJ cotton/NN belt/NN)  ,/,  including/IN  (NP the/AT Mississippi/NP Delta/NP)  ./.) 
+
+XYZ: sugar & sprayed & with & hiss \\
+Count: 1, NP1: sugar, V: sprayed, PP: with, NP2: hiss
+1:  (S  (NP sugar/NN)  sprayed/VBD  with/IN  (NP a/AT hiss/NN)  that/WPS  was/BEDZ  loud/JJ  in/IN  (NP the/AT silence/NN)  ./.) 
+
+XYZ: girl & meant & None & trouble \\
+Count: 1, NP1: girl, V: meant, PP: None, NP2: trouble
+1:  (S  He/PPS  had/HVD  (NP a/AT feeling/NN)  that/CS  (NP the/AT girl/NN)  meant/VBD  (NP trouble/NN)  ./.) 
+
+XYZ: state & adopting & None & practice \\
+Count: 1, NP1: state, V: adopting, PP: None, NP2: practice
+1:  (S  (NP The/AT best/JJT reason/NN)  that/WPO  can/MD  be/BE  advanced/VBN  for/IN  (NP the/AT state/NN)  adopting/VBG  (NP the/AT practice/NN)  was/BEDZ  (NP the/AT advent/NN)  of/IN  expanded/VBN  (NP highway/NN construction/NN during/IN the/AT 1920s/NNS)  and/CC  (NP '30s/NNS)  ./.) 
+
+XYZ: circumstances & alter & None & cases \\
+Count: 1, NP1: circumstances, V: alter, PP: None, NP2: cases
+1:  (S (NP Circumstances/NNS) alter/VB (NP cases/NNS) ./.) 
+
+XYZ: man & gather & None & fruit \\
+Count: 1, NP1: man, V: gather, PP: None, NP2: fruit
+1:  (S  ``/``  '/'  And/CC  let/VB  me/PPO  go/VB  ,/,  for/IN  (NP the/AT night/NN)  gathers/VBZ  me/PPO  ,/,  and/CC  in/IN  (NP the/AT night/NN)  shall/MD  (NP no/AT man/NN)  gather/VB  (NP fruit/NN)  '/'  ''/''  ./.) 
+
+XYZ: edition & contains & None & introduction \\
+Count: 1, NP1: edition, V: contains, PP: None, NP2: introduction
+1:  (S  (NP Volume/NN-TL)  1/CD-TL  ,/,  of/IN  the/AT  seventh/OD  (NP edition/NN)  contains/VBZ  (NP an/AT introduction/NN)  and/CC  (NP data/NNS for/IN eight/CD classes/NNS of/IN minerals/NNS)  ;/.  ;/.) 
+
+XYZ: fact & welcome & None & way \\
+Count: 1, NP1: fact, V: welcome, PP: None, NP2: way
+1:  (S  But/CC  he/PPS  was/BEDZ  ``/``  afraid/JJ  of/IN  (NP the/AT future/NN)  --/--  he/PPS  would/MD  in/IN  (NP fact/NN)  welcome/VB  (NP a/AT way/NN)  back/RB  to/IN  (NP social/JJ integration/NN)  ,/,  (NP a/AT functional/JJ art/NN)  of/IN  some/DTI  (NP kind/NN)  ''/''  ./.) 
+
+XYZ: agencies & offer & None & service \\
+Count: 1, NP1: agencies, V: offer, PP: None, NP2: service
+1:  (S  For/IN  those/DTS  who/WPS  plan/VB  to/TO  travel/VB  to/IN  (NP Europe/NP by/IN one/CD route/NN)  and/CC  return/VB  by/IN  another/DT  some/DTI  (NP agencies/NNS)  offer/VB  (NP a/AT service/NN)  whereby/WRB  you/PPSS  can/MD  pick/VB  up/IN  (NP a/AT car/NN in/IN one/CD city/NN on/IN arrival/NN)  and/CC  leave/VB  it/PPO  in/IN  (NP another/DT city/NN)  ,/,  or/CC  even/RB  (NP another/DT country/NN)  ,/,  when/WRB  you/PPSS  are/BER  ready/JJ  to/TO  return/VB  (NP home/NR)  ./.) 
+
+XYZ: services & include & None & procurement \\
+Count: 1, NP1: services, V: include, PP: None, NP2: procurement
+1:  (S  These/DTS  (NP services/NNS)  include/VB  (NP procurement/NN)  and/CC  (NP technical/JJ assistance/NN)  and/CC  (NP notice/NN of/IN surplus/NN sales/NNS)  and/CC  (NP invitations/NNS)  to/TO  bid/VB  on/IN  (NP Government/NN-TL contracts/NNS for/IN products/NNS)  and/CC  (NP    services/NNS    within/IN    the/AT    registrants'/NNS$    field/NN    of/IN    operations/NNS)  ./.) 
+
+XYZ: show & follows & None & ceremonies \\
+Count: 1, NP1: show, V: follows, PP: None, NP2: ceremonies
+1:  (S (NP Show/NN-HL) follows/VBZ-HL (NP ceremonies/NNS-HL)) 
+
+XYZ: warnings & laughed & with & satisfaction \\
+Count: 1, NP1: warnings, V: laughed, PP: with, NP2: satisfaction
+1:  (S  But/CC  (NP the/AT day/NN of/IN the/AT deadline/NN)  came/VBD  and/CC  passed/VBD  ,/,  and/CC  (NP the/AT men/NNS)  who/WPS  had/HVD  scoffed/VBN  at/IN  (NP the/AT warnings/NNS)  laughed/VBD  with/IN  (NP satisfaction/NN)  ./.) 
+
+XYZ: book & carries & None & disclaimer \\
+Count: 1, NP1: book, V: carries, PP: None, NP2: disclaimer
+1:  (S  (NP The/AT book/NN)  carries/VBZ  (NP a/AT disclaimer/NN)  in/IN  which/WDT  (NP Remarque/NP)  says/VBZ  it/PPS  has/HVZ  been/BEN  necessary/JJ  for/IN  him/PPO  to/TO  take/VB  (NP minor/JJ liberties/NNS)  with/IN  some/DTI  of/IN  (NP the/AT procedures/NNS)  and/CC  (NP formalities/NNS)  of/IN  racing/VBG  ./.) 
+
+XYZ: fathers & found & None & crisis \\
+Count: 1, NP1: fathers, V: found, PP: None, NP2: crisis
+1:  (S  Incapable/JJ  of/IN  (NP self-delusion/NN)  ,/,  the/AT  Founding/VBG-TL  (NP Fathers/NNS-TL)  found/VBD  (NP the/AT crisis/NN)  of/IN  their/PP$  (NP time/NN)  to/TO  be/BE  equally/QL  grave/JJ  ,/,  and/CC  yet/RB  they/PPSS  had/HVD  (NP confidence/NN)  that/CS  (NP America/NP)  would/MD  surmount/VB  it/PPO  and/CC  that/CS  (NP a/AT republic/NN of/IN free/JJ peoples/NNS)  would/MD  prosper/VB  and/CC  serve/VB  as/CS  (NP an/AT example/NN to/IN a/AT world/NN)  aching/VBG  for/IN  (NP liberty/NN)  ./.) 
+
+XYZ: juniors & entered & None & ring \\
+Count: 2, NP1: juniors, V: entered, PP: None, NP2: ring
+1:  (S  Before/CS  (NP the/AT Juniors/NNS-TL)  entered/VBD  (NP the/AT ring/NN)  (NP the/AT Steward/NN-TL)  announced/VBD  that/CS  after/CS  all/ABN  (NP Juniors/NNS-TL)  had/HVD  moved/VBN  their/PP$  (NP dogs/NNS around/IN the/AT ring/NN)  and/CC  set/VBN  them/PPO  up/RP  ,/,  they/PPSS  could/MD  relax/VB  with/IN  their/PP$  (NP dogs/NNS)  ./.) 
+
+2:  (S  As/CS  (NP the/AT Juniors/NNS-TL)  entered/VBD  (NP the/AT ring/NN)  ,/,  (NP Mr./NP Spring/NP)  ,/,  (NP the/AT announcer/NN)  ,/,  stated/VBD  over/IN  (NP the/AT public-address/NN system/NN)  that/CS  this/DT  was/BEDZ  the/AT  28th/OD  (NP year/NN)  that/CS  (NP Westminster/NP)  has/HVZ  held/VBN  (NP    the/AT    Finals/NNS-TL    of/IN    the/AT    Junior/JJ-TL    Competition/NN-TL)  ./.) 
+
+XYZ: networks & pertaining & to & logistics \\
+Count: 1, NP1: networks, V: pertaining, PP: to, NP2: logistics
+1:  (S  Furthermore/RB  ,/,  (NP the/AT network/NN in/IN Figure/NN-TL)  3/CD-TL  is/BEZ  only/RB  (NP the/AT basic/JJ net/NN)  through/IN  which/WDT  other/AP  (NP networks/NNS)  pertaining/VBG  to/IN  (NP logistics/NN)  and/CC  the/AT  like/JJ  are/BER  interlaced/VBN  ./.) 
+

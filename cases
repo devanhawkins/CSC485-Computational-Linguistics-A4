@@ -1,0 +1,34 @@
+ (S  (NP The/AT firm/NN)  also/RB  handles/VBZ  (NP gin/NN)  and/CC  (NP oil/NN mill/NN supplies/NNS)  such/JJ  as/CS  (NP belting/NN)  ,/,  (NP bearings/NNS)  ,/,  etc./RB  ./.) 
+['oil mill supplies', 'belting']
+
+ (S  (NP Ramsey/NP)  has/HVZ  stoked/VBN  up/RP  (NP Harry/NP Truman/NP)  ,/,  (NP Henry/NP Cabot/NP Lodge/NP)  ,/,  (NP the/AT King/NN-TL)  of/IN-TL  (NP Morocco/NP-TL)  ,/,  (NP Clement/NP Atlee/NP)  and/CC  other/AP  (NP shiny/JJ characters/NNS)  ./.) 
+['shiny characters', 'Morocco']
+ (S  (NP Ramsey/NP)  has/HVZ  stoked/VBN  up/RP  (NP Harry/NP Truman/NP)  ,/,  (NP Henry/NP Cabot/NP Lodge/NP)  ,/,  (NP the/AT King/NN-TL)  of/IN-TL  (NP Morocco/NP-TL)  ,/,  (NP Clement/NP Atlee/NP)  and/CC  other/AP  (NP shiny/JJ characters/NNS)  ./.) 
+['shiny characters', 'Clement Atlee']
+
+
+
+ (S  For/IN  their/PP$  (NP purposes/NNS)  ,/,  (NP oxygen/NN)  and/CC  other/AP  (NP gases/NNS)  were/BED  not/*  drawn/VBN  from/IN  the/AT  surrounding/VBG  (NP atmosphere/NN through/IN the/AT medium/NN of/IN lungs/NNS)  but/CC  sustained/VBN  artificially/RB  by/IN  (NP solution/NN)  in/IN  their/PP$  (NP shells/NNS)  ./.) 
+['gases', 'purposes']
+
+ (S  For/IN  their/PP$  (NP purposes/NNS)  ,/,  (NP oxygen/NN)  and/CC  other/AP  (NP gases/NNS)  were/BED  not/*  drawn/VBN  from/IN  the/AT  surrounding/VBG  (NP atmosphere/NN through/IN the/AT medium/NN of/IN lungs/NNS)  but/CC  sustained/VBN  artificially/RB  by/IN  (NP solution/NN)  in/IN  their/PP$  (NP shells/NNS)  ./.) 
+['gases', 'oxygen']
+
+
+ (S  (NP The/AT desk/NN)  before/IN  him/PPO  was/BEDZ  in/IN  (NP no/AT better/JJR repair/NN)  than/CS  (NP the/AT rest/NN of/IN the/AT furniture/NN)  crowded/VBN  into/IN  (NP the/AT room/NN)  ,/,  including/IN  (NP wooden/JJ file/NN cabinets/NNS)  with/IN  some/DTI  of/IN  their/PP$  (NP pulls/NNS)  yanked/VBN  off/RP  and/CC  (NP a/AT wardrobe/NN)  stained/VBN  with/IN  (NP the/AT roof/NN seepage/NN of/IN countless/JJ seasons/NNS)  ./.) 
+['room', 'wooden file cabinets']
+ (S  (NP Uncle/NN-TL Randolph/NP)  and/CC  (NP Joel/NP)  had/HVD  replanted/VBN  (NP the/AT bottom/NN lands/NNS with/IN difficulty/NN)  ,/,  for/CS  more/AP  of/IN  (NP the/AT slaves/NNS)  ,/,  including/IN  (NP Annie/NP)  ,/,  had/HVD  sneaked/VBN  off/RP  when/WRB  (NP the/AT soldiers/NNS)  broke/VBD  (NP camp/NN)  ./.) 
+['slaves', 'Annie']
+
+
+ (S  (NP The/AT cards/NNS)  were/BED  then/RB  processed/VBN  using/VBG  (NP standard/JJ IBM/NN punch/NN card/NN equipment/NN)  ,/,  including/IN  (NP an/AT IBM/NN)  (NP 650/CD computer/NN)  ./.) 
+['standard IBM punch card equipment', 'IBM']
+
+choclate ice cream from stores such as ice heaven
+this can cause problems because the original chunker gets
+stores, such as, ice heaven
+
+dogs from russia such as nikola
+this can cause problems because the original chunker gets
+russia, such as, nikola
+
